@@ -1,0 +1,10 @@
+{
+ "created": false,
+ "agents": {},
+ "world": {
+  "gameDay": 0,
+  "speed": 1,
+  "paused": false
+ },
+ "logs": []
+}
