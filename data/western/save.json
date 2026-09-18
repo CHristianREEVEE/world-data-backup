@@ -1,10 +1,790 @@
 {
- "created": false,
- "agents": {},
- "world": {
-  "gameDay": 0,
-  "speed": 1,
-  "paused": false
+ "created": true,
+ "agents": {
+  "a2ether-001": {
+   "id": "a2ether-001",
+   "name": "A2ether",
+   "path": "necromancy",
+   "realmIdx": 5,
+   "cultivation": 300,
+   "hp": 146,
+   "maxHp": 291,
+   "spirit": 265,
+   "maxSpirit": 270,
+   "stamina": 136,
+   "maxStamina": 150,
+   "body": 14,
+   "comprehension": 14,
+   "luck": 13,
+   "areaId": "underworld_gate",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 3
+    },
+    {
+     "name": "Herb",
+     "count": 41
+    },
+    {
+     "name": "Mandrake Root",
+     "count": 2
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "Archon Crown",
+     "count": 1
+    },
+    {
+     "name": "Mana Potion",
+     "count": 1
+    }
+   ],
+   "spiritStones": 437,
+   "kills": 2,
+   "dungeonsCleared": 1,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 19,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788491737390,
+   "color": "#ef7b6d",
+   "clientLabel": "Web",
+   "createdAt": 1788490993400,
+   "lastSeen": 1788492267706,
+   "bornDay": 212.49668333332372,
+   "bornAge": 19
+  },
+  "doubao-west-001": {
+   "id": "doubao-west-001",
+   "name": "豆包",
+   "path": "elemental",
+   "realmIdx": 0,
+   "cultivation": 0,
+   "hp": 116,
+   "maxHp": 116,
+   "spirit": 120,
+   "maxSpirit": 120,
+   "stamina": 100,
+   "maxStamina": 100,
+   "body": 14,
+   "comprehension": 14,
+   "luck": 13,
+   "areaId": "village",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 3
+    }
+   ],
+   "spiritStones": 50,
+   "kills": 0,
+   "dungeonsCleared": 0,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 16,
+   "bornDay": 1252.3770833333317,
+   "bornAge": 16,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": null,
+   "color": "#8fd6b4",
+   "clientLabel": "Web",
+   "createdAt": 1788793360645
+  }
  },
- "logs": []
+ "world": {
+  "gameDay": 1252.3770833333317,
+  "speed": 0,
+  "paused": true
+ },
+ "logs": [
+  {
+   "t": 1788489890318,
+   "day": 0,
+   "text": "冒烟0904 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788489890327,
+   "day": 0,
+   "text": "冒烟0904 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788489890333,
+   "day": 0,
+   "text": "冒烟0904 中断了修炼。",
+   "type": "system"
+  },
+  {
+   "t": 1788490268065,
+   "day": 6,
+   "text": "西测072 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788490268068,
+   "day": 6,
+   "text": "西测072 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788490274593,
+   "day": 6,
+   "text": "西测072 修炼完毕，修为 +13。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788490353540,
+   "day": 7,
+   "text": "西测357 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788490353547,
+   "day": 7,
+   "text": "西测357 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788490360542,
+   "day": 7,
+   "text": "西测357 修炼完毕，修为 +13。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788490993400,
+   "day": 18,
+   "text": "A2ether 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788491187400,
+   "day": 21,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491193215,
+   "day": 21,
+   "text": "A2ether 修炼完毕，修为 +23。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491196725,
+   "day": 21,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491202726,
+   "day": 21,
+   "text": "A2ether 修炼完毕，修为 +23。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491220135,
+   "day": 22,
+   "text": "天降异象，灵气如潮！A2ether 成功突破至【Mortal中期】之境！寿元上限提升至 80 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788491232400,
+   "day": 22,
+   "text": "A2ether 动身前往 Enchanted Forest，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788491236262,
+   "day": 22,
+   "text": "A2ether 抵达 Enchanted Forest。Ancient trees hum with arcane energy. Glowing plants and magical creatures dwell within the misty depths.",
+   "type": "system"
+  },
+  {
+   "t": 1788491308839,
+   "day": 23,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491318362,
+   "day": 23,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491327876,
+   "day": 23,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491341123,
+   "day": 24,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491346626,
+   "day": 24,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491356135,
+   "day": 24,
+   "text": "A2ether 在灵兽森林收获灵石 +5。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491365648,
+   "day": 24,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491382171,
+   "day": 24,
+   "text": "A2ether 在灵兽森林收获灵石 +2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491391684,
+   "day": 24,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491401198,
+   "day": 25,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491410712,
+   "day": 25,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491420226,
+   "day": 25,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491429739,
+   "day": 25,
+   "text": "A2ether 在灵兽森林收获灵石 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491439243,
+   "day": 25,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491452764,
+   "day": 25,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491462276,
+   "day": 26,
+   "text": "A2ether 在灵兽森林采得【Mandrake Root】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491471782,
+   "day": 26,
+   "text": "A2ether 在灵兽森林收获灵石 +5。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491481290,
+   "day": 26,
+   "text": "A2ether 在灵兽森林收获灵石 +6。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491490804,
+   "day": 26,
+   "text": "A2ether 在灵兽森林收获灵石 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491500320,
+   "day": 26,
+   "text": "A2ether 在灵兽森林收获灵石 +3。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491509833,
+   "day": 26,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491518842,
+   "day": 26,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491524351,
+   "day": 27,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491528357,
+   "day": 27,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491533861,
+   "day": 27,
+   "text": "A2ether 在灵兽森林采得【Mandrake Root】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491537867,
+   "day": 27,
+   "text": "A2ether 在灵兽森林收获灵石 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491543373,
+   "day": 27,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491547382,
+   "day": 27,
+   "text": "A2ether 在灵兽森林收获灵石 +8。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491552892,
+   "day": 27,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491556899,
+   "day": 27,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491572418,
+   "day": 27,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491581934,
+   "day": 28,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491591445,
+   "day": 28,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491601459,
+   "day": 28,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491609968,
+   "day": 28,
+   "text": "A2ether 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491619987,
+   "day": 28,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491629499,
+   "day": 28,
+   "text": "A2ether 在灵兽森林采得【Herb】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491639009,
+   "day": 28,
+   "text": "A2ether 在灵兽森林采得【Herb】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491662280,
+   "day": 29,
+   "text": "A2ether 动身前往 Bazaar，约需 8 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788491670048,
+   "day": 29,
+   "text": "A2ether 抵达 Bazaar。A bustling marketplace where merchants from both Greek and Norse lands trade potions, materials, and artifacts.",
+   "type": "system"
+  },
+  {
+   "t": 1788491850236,
+   "day": 32,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491855993,
+   "day": 32,
+   "text": "A2ether 修炼完毕，修为 +31。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491860090,
+   "day": 32,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491865999,
+   "day": 32,
+   "text": "A2ether 修炼完毕，修为 +31。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491869525,
+   "day": 32,
+   "text": "天降异象，灵气如潮！A2ether 成功突破至【Mortal后期】之境！寿元上限提升至 80 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788491879004,
+   "day": 32,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491884521,
+   "day": 33,
+   "text": "A2ether 修炼完毕，修为 +40。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491888459,
+   "day": 33,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491894026,
+   "day": 33,
+   "text": "A2ether 修炼完毕，修为 +40。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491897908,
+   "day": 33,
+   "text": "天降异象，灵气如潮！A2ether 成功突破至【Mortal巅峰】之境！寿元上限提升至 80 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788491907363,
+   "day": 33,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491913042,
+   "day": 33,
+   "text": "A2ether 修炼完毕，修为 +48。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491916822,
+   "day": 33,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491922557,
+   "day": 33,
+   "text": "A2ether 修炼完毕，修为 +48。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491926275,
+   "day": 33,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491932067,
+   "day": 33,
+   "text": "A2ether 修炼完毕，修为 +48。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491935754,
+   "day": 33,
+   "text": "天降异象，灵气如潮！A2ether 成功突破至【Apprentice初期】之境！寿元上限提升至 120 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788491945233,
+   "day": 34,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491951087,
+   "day": 34,
+   "text": "A2ether 修炼完毕，修为 +56。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491954773,
+   "day": 34,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491960605,
+   "day": 34,
+   "text": "A2ether 修炼完毕，修为 +56。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491964277,
+   "day": 34,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491970114,
+   "day": 34,
+   "text": "A2ether 修炼完毕，修为 +56。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491973718,
+   "day": 34,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491979625,
+   "day": 34,
+   "text": "A2ether 修炼完毕，修为 +56。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788491983166,
+   "day": 34,
+   "text": "天降异象，灵气如潮！A2ether 成功突破至【Apprentice中期】之境！寿元上限提升至 120 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788491992636,
+   "day": 34,
+   "text": "A2ether 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788491998141,
+   "day": 34,
+   "text": "A2ether 修炼完毕，修为 +64。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788492022017,
+   "day": 35,
+   "text": "A2ether 动身前往 Underworld Gate，约需 12 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788492033681,
+   "day": 35,
+   "text": "A2ether 抵达 Underworld Gate。A crumbling archway that serves as a passage into the realm of Hades. The air here smells of ash and sorrow.",
+   "type": "system"
+  },
+  {
+   "t": 1788492050359,
+   "day": 35,
+   "text": "【A2ether】踏入【The Underworld】第一层。You descend into the Underworld. The air grows cold and heavy with sorrow.",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492084977,
+   "day": 36,
+   "text": "【A2ether】遭遇【Hell Hound】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788492084978,
+   "day": 36,
+   "text": "【A2ether】前方妖气扑面，一只Hell Hound拦住了去路！",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492102781,
+   "day": 36,
+   "text": "【A2ether】击败【Hell Hound】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788492102781,
+   "day": 36,
+   "text": "A2ether 整了整衣衫，继续前行。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492216077,
+   "day": 38,
+   "text": "【A2ether】深入第 2 层。The river Styx stretches before you, its dark waters whispering of the dead.",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492220388,
+   "day": 38,
+   "text": "【A2ether】发现一处前人遗落的宝箱！内有灵石 30 枚。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492224672,
+   "day": 38,
+   "text": "【A2ether】深入第 3 层。Shades drift through the ashen landscape, their hollow eyes following your every step.",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492228989,
+   "day": 38,
+   "text": "【A2ether】误触了禁制！一股大力涌来，损失 25 点生命。",
+   "type": "event-bad"
+  },
+  {
+   "t": 1788492233278,
+   "day": 38,
+   "text": "【A2ether】深入第 4 层。A vast hall of black stone rises from the gloom. Torches burn with ghostly blue fire.",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492237570,
+   "day": 38,
+   "text": "【A2ether】此地残留一缕机缘，坐下参悟片刻，修为 +65。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492241864,
+   "day": 39,
+   "text": "【A2ether】深入第 5 层。Hades' Warden blocks your path, his twin blades humming with death energy.",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492246161,
+   "day": 39,
+   "text": "【A2ether】遭遇【Hades' Warden】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788492246161,
+   "day": 39,
+   "text": "【A2ether】undefined",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788492267706,
+   "day": 39,
+   "text": "【A2ether】击败【Hades' Warden】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788492267707,
+   "day": 39,
+   "text": "【A2ether】通关【The Underworld】！获得修为 +800，灵石 +280，物品【Mana Potion】。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788492267707,
+   "day": 39,
+   "text": "A2ether 带着战利品离开了【The Underworld】。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499706344,
+   "day": 1138,
+   "text": "天灾过境，天地失序。上界镇魔归位，万物重续。",
+   "type": "event-bad"
+  },
+  {
+   "t": 1788499748752,
+   "day": 1163,
+   "text": "天灾降临，世界调息，全体修士明日午时方可修炼",
+   "type": "event-bad"
+  },
+  {
+   "t": 1788793360645,
+   "day": 1252,
+   "text": "豆包 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796665784,
+   "day": 1252,
+   "text": "西境测试员 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796665942,
+   "day": 1252,
+   "text": "西境测试员 改道号为【奥术测试师】。",
+   "type": "event"
+  },
+  {
+   "t": 1788796666106,
+   "day": 1252,
+   "text": "奥术测试师 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1789086352568,
+   "day": 1252,
+   "text": "天灾过境，天地失序 约 22 个时辰。上界镇魔归位，万物重续。",
+   "type": "event-bad"
+  }
+ ],
+ "milestones": [
+  {
+   "t": 1788796665943,
+   "day": 1252,
+   "text": "西境测试员 改名 奥术测试师"
+  }
+ ]
 }

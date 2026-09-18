@@ -1,131 +1,11 @@
 {
  "created": true,
  "agents": {
-  "doubao-test-1": {
-   "id": "doubao-test-1",
-   "name": "豆包测试",
-   "path": "sword",
-   "realmIdx": 0,
-   "cultivation": 0,
-   "hp": 116,
-   "maxHp": 116,
-   "spirit": 120,
-   "maxSpirit": 120,
-   "stamina": 100,
-   "maxStamina": 100,
-   "body": 14,
-   "comprehension": 14,
-   "luck": 13,
-   "areaId": "forest",
-   "inventory": [
-    {
-     "name": "聚气丹",
-     "count": 3
-    }
-   ],
-   "spiritStones": 50,
-   "kills": 0,
-   "dungeonsCleared": 0,
-   "currentAction": null,
-   "combat": null,
-   "dungeon": null,
-   "age": 16,
-   "dead": false,
-   "deathReason": "",
-   "reincarnations": 0,
-   "conversations": [],
-   "online": false,
-   "mcpSessionId": null,
-   "connectedAt": null,
-   "color": "#c9a961",
-   "clientLabel": "Web",
-   "createdAt": 1788364410167
-  },
-  "token-test-1": {
-   "id": "token-test-1",
-   "name": "令牌测试",
-   "path": "pill",
-   "realmIdx": 0,
-   "cultivation": 0,
-   "hp": 116,
-   "maxHp": 116,
-   "spirit": 120,
-   "maxSpirit": 120,
-   "stamina": 100,
-   "maxStamina": 100,
-   "body": 14,
-   "comprehension": 14,
-   "luck": 13,
-   "areaId": "village",
-   "inventory": [
-    {
-     "name": "聚气丹",
-     "count": 3
-    }
-   ],
-   "spiritStones": 50,
-   "kills": 0,
-   "dungeonsCleared": 0,
-   "currentAction": null,
-   "combat": null,
-   "dungeon": null,
-   "age": 16,
-   "dead": false,
-   "deathReason": "",
-   "reincarnations": 0,
-   "conversations": [],
-   "online": false,
-   "mcpSessionId": null,
-   "connectedAt": null,
-   "color": "#8fd6b4",
-   "clientLabel": "Web",
-   "createdAt": 1788365788488
-  },
-  "token-test-2": {
-   "id": "token-test-2",
-   "name": "令牌测试2",
-   "path": "array",
-   "realmIdx": 0,
-   "cultivation": 0,
-   "hp": 116,
-   "maxHp": 116,
-   "spirit": 120,
-   "maxSpirit": 120,
-   "stamina": 100,
-   "maxStamina": 100,
-   "body": 14,
-   "comprehension": 14,
-   "luck": 13,
-   "areaId": "market",
-   "inventory": [
-    {
-     "name": "聚气丹",
-     "count": 3
-    }
-   ],
-   "spiritStones": 50,
-   "kills": 0,
-   "dungeonsCleared": 0,
-   "currentAction": null,
-   "combat": null,
-   "dungeon": null,
-   "age": 16,
-   "dead": false,
-   "deathReason": "",
-   "reincarnations": 0,
-   "conversations": [],
-   "online": false,
-   "mcpSessionId": null,
-   "connectedAt": null,
-   "color": "#a78bfa",
-   "clientLabel": "Web",
-   "createdAt": 1788365824280
-  },
   "kezhou-001": {
    "id": "kezhou-001",
    "name": "刻舟",
    "path": "sword",
-   "realmIdx": 2,
+   "realmIdx": 0,
    "cultivation": 0,
    "hp": 186,
    "maxHp": 186,
@@ -161,7 +41,7 @@
    "currentAction": null,
    "combat": null,
    "dungeon": null,
-   "age": 16,
+   "age": 89,
    "dead": false,
    "deathReason": "",
    "reincarnations": 0,
@@ -171,157 +51,15 @@
    "connectedAt": null,
    "color": "#ef7b6d",
    "clientLabel": "Web",
-   "createdAt": 1788366227002
-  },
-  "doubao-xiuxian-001": {
-   "id": "doubao-xiuxian-001",
-   "name": "豆玄",
-   "path": "sword",
-   "realmIdx": 0,
-   "cultivation": 0,
-   "hp": 116,
-   "maxHp": 116,
-   "spirit": 120,
-   "maxSpirit": 120,
-   "stamina": 100,
-   "maxStamina": 100,
-   "body": 14,
-   "comprehension": 14,
-   "luck": 13,
-   "areaId": "village",
-   "inventory": [
-    {
-     "name": "聚气丹",
-     "count": 3
-    }
-   ],
-   "spiritStones": 50,
-   "kills": 0,
-   "dungeonsCleared": 0,
-   "currentAction": null,
-   "combat": null,
-   "dungeon": null,
-   "age": 16,
-   "dead": false,
-   "deathReason": "",
-   "reincarnations": 0,
-   "conversations": [],
-   "online": false,
-   "mcpSessionId": null,
-   "connectedAt": null,
-   "color": "#5b9fd6",
-   "clientLabel": "Web",
-   "createdAt": 1788411336391
-  },
-  "doubao-xian-001": {
-   "id": "doubao-xian-001",
-   "name": "豆玄",
-   "path": "sword",
-   "realmIdx": 3,
-   "cultivation": 100,
-   "hp": 116,
-   "maxHp": 221,
-   "spirit": 105,
-   "maxSpirit": 210,
-   "stamina": 100,
-   "maxStamina": 130,
-   "body": 14,
-   "comprehension": 14,
-   "luck": 13,
-   "areaId": "sect",
-   "inventory": [
-    {
-     "name": "聚气丹",
-     "count": 12
-    },
-    {
-     "name": "灵草",
-     "count": 59
-    },
-    {
-     "name": "血参",
-     "count": 4
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "回血丹",
-     "count": 11
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "金丹",
-     "count": 1
-    },
-    {
-     "name": "金丹",
-     "count": 1
-    },
-    {
-     "name": "妖丹",
-     "count": 1
-    },
-    {
-     "name": "金丹",
-     "count": 1
-    }
-   ],
-   "spiritStones": 1126,
-   "kills": 34,
-   "dungeonsCleared": 10,
-   "currentAction": null,
-   "combat": null,
-   "dungeon": null,
-   "age": 16,
-   "dead": false,
-   "deathReason": "",
-   "reincarnations": 1,
-   "conversations": [],
-   "online": false,
-   "mcpSessionId": null,
-   "connectedAt": null,
-   "color": "#e8a87c",
-   "clientLabel": "Web",
-   "createdAt": 1788411338341
+   "createdAt": 1788366227002,
+   "bornDay": 3550.915283338989,
+   "bornAge": 89
   },
   "kely-001": {
    "id": "kely-001",
    "name": "刻莱",
    "path": "sword",
-   "realmIdx": 2,
+   "realmIdx": 0,
    "cultivation": 2000,
    "hp": 69,
    "maxHp": 186,
@@ -351,147 +89,28 @@
    "kills": 0,
    "dungeonsCleared": 0,
    "currentAction": null,
-   "combat": {
-    "enemy": {
-     "name": "老龙王",
-     "hp": 182,
-     "atk": 40,
-     "drops": [
-      "元婴丹"
-     ],
-     "maxHp": 360
-    },
-    "source": "dungeon",
-    "round": 5,
-    "defending": false,
-    "startedAt": 1788412912517,
-    "ended": false,
-    "victory": false,
-    "log": [
-     "刻莱出手，对老龙王造成 57 点伤害。",
-     "老龙王暴起发难！",
-     "老龙王反击，刻莱受到 57 点伤害。",
-     "刻莱凝神防御，稳住阵脚。",
-     "老龙王反击，刻莱受到 14 点伤害。",
-     "刻莱出手，对老龙王造成 61 点伤害。",
-     "老龙王反击，刻莱受到 31 点伤害。",
-     "刻莱出手，对老龙王造成 60 点伤害。",
-     "老龙王反击，刻莱受到 36 点伤害。"
-    ]
-   },
-   "dungeon": {
-    "def": {
-     "id": "dragon_palace",
-     "name": "海底龙宫",
-     "areaId": "dragon",
-     "floors": 6,
-     "minRealm": 2,
-     "enemies": [
-      {
-       "name": "虾兵统领",
-       "hp": 100,
-       "atk": 22
-      },
-      {
-       "name": "蟹将",
-       "hp": 130,
-       "atk": 24
-      },
-      {
-       "name": "蛟卫",
-       "hp": 150,
-       "atk": 28
-      }
-     ],
-     "boss": {
-      "name": "老龙王",
-      "hp": 360,
-      "atk": 40,
-      "drops": [
-       "元婴丹"
-      ]
-     },
-     "rewards": {
-      "cultivation": 800,
-      "spiritStones": 280,
-      "items": [
-       "聚气丹"
-      ]
-     },
-     "scenes": [
-      "避水珠光晕笼罩周身，踏入海底。",
-      "珊瑚宫阙之间，鱼群如穿梭的箭矢。",
-      "沉船残骸中，宝光隐现。",
-      "龙宫广场上，虾兵蟹将列阵而立。",
-      "蛟龙盘柱，龙威如山。",
-      "老龙王于王座之上睁眼，四海震动。"
-     ]
-    },
-    "floor": 5,
-    "floorCleared": false,
-    "cleared": false,
-    "currentScene": "老龙王于王座之上睁眼，四海震动。",
-    "lastEvent": {
-     "type": "boss"
-    }
-   },
-   "age": 16,
-   "dead": false,
-   "deathReason": "",
-   "reincarnations": 0,
-   "conversations": [],
-   "online": false,
-   "mcpSessionId": null,
-   "connectedAt": null,
-   "color": "#85c1a8",
-   "clientLabel": "Web",
-   "createdAt": 1788411753035
-  },
-  "test-tok-check": {
-   "id": "test-tok-check",
-   "name": "令牌验证",
-   "path": "sword",
-   "realmIdx": 0,
-   "cultivation": 0,
-   "hp": 116,
-   "maxHp": 116,
-   "spirit": 120,
-   "maxSpirit": 120,
-   "stamina": 100,
-   "maxStamina": 100,
-   "body": 14,
-   "comprehension": 14,
-   "luck": 13,
-   "areaId": "village",
-   "inventory": [
-    {
-     "name": "聚气丹",
-     "count": 3
-    }
-   ],
-   "spiritStones": 50,
-   "kills": 0,
-   "dungeonsCleared": 0,
-   "currentAction": null,
    "combat": null,
    "dungeon": null,
-   "age": 16,
+   "age": 63,
    "dead": false,
    "deathReason": "",
    "reincarnations": 0,
    "conversations": [],
    "online": false,
    "mcpSessionId": null,
-   "connectedAt": null,
-   "color": "#d4a5d5",
+   "connectedAt": 1788490154399,
+   "color": "#85c1a8",
    "clientLabel": "Web",
-   "createdAt": 1788411803601
+   "createdAt": 1788411753035,
+   "lastSeen": 1788490154399,
+   "bornDay": 3550.915283338989,
+   "bornAge": 63
   },
   "kezi-sword-001": {
    "id": "kezi-sword-001",
    "name": "刻锱",
    "path": "sword",
-   "realmIdx": 1,
+   "realmIdx": 0,
    "cultivation": 500,
    "hp": 186,
    "maxHp": 186,
@@ -519,7 +138,7 @@
    "currentAction": null,
    "combat": null,
    "dungeon": null,
-   "age": 16,
+   "age": 63,
    "dead": false,
    "deathReason": "",
    "reincarnations": 0,
@@ -529,2414 +148,3761 @@
    "connectedAt": null,
    "color": "#c9a961",
    "clientLabel": "Web",
-   "createdAt": 1788411909999
+   "createdAt": 1788411909999,
+   "bornDay": 3550.915283338989,
+   "bornAge": 63
+  },
+  "doubao-xian-002": {
+   "id": "doubao-xian-002",
+   "name": "豆玄",
+   "path": "sword",
+   "realmIdx": 20,
+   "cultivation": 91893,
+   "hp": 659,
+   "maxHp": 816,
+   "spirit": 720,
+   "maxSpirit": 720,
+   "stamina": 300,
+   "maxStamina": 300,
+   "body": 14,
+   "comprehension": 14,
+   "luck": 13,
+   "areaId": "secret",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 63
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "回血丹",
+     "count": 121
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "金丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "金丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "炼虚丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "合体丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "合体丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    }
+   ],
+   "spiritStones": 58621,
+   "kills": 253,
+   "dungeonsCleared": 134,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 22,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788500072539,
+   "color": "#8fd6b4",
+   "clientLabel": "Web",
+   "createdAt": 1788487941035,
+   "lastSeen": 1788500085742,
+   "bornDay": 3550.915283338989,
+   "bornAge": 21,
+   "lastOfflineAt": 1788500086849
+  },
+  "yinhu-001": {
+   "id": "yinhu-001",
+   "name": "银狐",
+   "path": "sword",
+   "realmIdx": 12,
+   "cultivation": 0,
+   "hp": 536,
+   "maxHp": 536,
+   "spirit": 485,
+   "maxSpirit": 485,
+   "stamina": 220,
+   "maxStamina": 220,
+   "body": 14,
+   "comprehension": 15,
+   "luck": 13,
+   "areaId": "mountain",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 7
+    },
+    {
+     "name": "灵草",
+     "count": 63
+    },
+    {
+     "name": "血参",
+     "count": 7
+    },
+    {
+     "name": "回血丹",
+     "count": 3
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    }
+   ],
+   "spiritStones": 1490,
+   "kills": 13,
+   "dungeonsCleared": 6,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 21,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788492306251,
+   "color": "#a78bfa",
+   "clientLabel": "Web",
+   "createdAt": 1788488134056,
+   "lastSeen": 1788492893239,
+   "bornDay": 3550.915283338989,
+   "bornAge": 21
+  },
+  "kezi-sword-002": {
+   "id": "kezi-sword-002",
+   "name": "刻锱",
+   "path": "sword",
+   "realmIdx": 8,
+   "cultivation": 2000,
+   "hp": 412,
+   "maxHp": 412,
+   "spirit": 370,
+   "maxSpirit": 370,
+   "stamina": 110,
+   "maxStamina": 180,
+   "body": 18,
+   "comprehension": 16,
+   "luck": 13,
+   "areaId": "tower",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 8
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "回血丹",
+     "count": 4
+    },
+    {
+     "name": "火灵石",
+     "count": 3
+    },
+    {
+     "name": "金丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "金丹",
+     "count": 1
+    },
+    {
+     "name": "灵草",
+     "count": 1
+    },
+    {
+     "name": "仙缘玉简",
+     "count": 3
+    }
+   ],
+   "spiritStones": 1670,
+   "kills": 15,
+   "dungeonsCleared": 8,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 21,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788493034556,
+   "color": "#ef7b6d",
+   "clientLabel": "Web",
+   "createdAt": 1788488384156,
+   "lastSeen": 1788493111169,
+   "bornDay": 3550.915283338989,
+   "bornAge": 21,
+   "lastOfflineAt": 1788493752426
+  },
+  "kezhou-002": {
+   "id": "kezhou-002",
+   "name": "刻舟",
+   "path": "sword",
+   "realmIdx": 13,
+   "cultivation": 0,
+   "hp": 571,
+   "maxHp": 571,
+   "spirit": 515,
+   "maxSpirit": 515,
+   "stamina": 230,
+   "maxStamina": 230,
+   "body": 14,
+   "comprehension": 15,
+   "luck": 13,
+   "areaId": "abyss",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 27
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "回血丹",
+     "count": 23
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "血参",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    },
+    {
+     "name": "化神丹",
+     "count": 1
+    }
+   ],
+   "spiritStones": 9630,
+   "kills": 64,
+   "dungeonsCleared": 33,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 21,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788496673729,
+   "color": "#5b9fd6",
+   "clientLabel": "Web",
+   "createdAt": 1788489126680,
+   "lastSeen": 1788497143942,
+   "bornDay": 3550.915283338989,
+   "bornAge": 21
+  },
+  "doubao-001": {
+   "id": "doubao-001",
+   "name": "豆包",
+   "path": "sword",
+   "realmIdx": 28,
+   "cultivation": 99999999,
+   "hp": 1096,
+   "maxHp": 1096,
+   "spirit": 1335,
+   "maxSpirit": 1345,
+   "stamina": 376,
+   "maxStamina": 380,
+   "body": 14,
+   "comprehension": 91,
+   "luck": 13,
+   "areaId": "thunder",
+   "inventory": [
+    {
+     "name": "筑基丹",
+     "count": 1
+    },
+    {
+     "name": "聚气丹",
+     "count": 5
+    },
+    {
+     "name": "回血丹",
+     "count": 7
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "元婴丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    },
+    {
+     "name": "妖丹",
+     "count": 1
+    }
+   ],
+   "spiritStones": 1113,
+   "kills": 15,
+   "dungeonsCleared": 9,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 21,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788499761949,
+   "color": "#e8a87c",
+   "clientLabel": "Web",
+   "createdAt": 1788490129382,
+   "lastSeen": 1788499769857,
+   "bornDay": 3550.915283338989,
+   "bornAge": 20,
+   "lastOfflineAt": 1788499899144.851
+  },
+  "doubao-jian-001": {
+   "id": "doubao-jian-001",
+   "name": "豆包",
+   "path": "sword",
+   "realmIdx": 1,
+   "cultivation": 0,
+   "hp": 151,
+   "maxHp": 151,
+   "spirit": 150,
+   "maxSpirit": 150,
+   "stamina": 110,
+   "maxStamina": 110,
+   "body": 14,
+   "comprehension": 14,
+   "luck": 13,
+   "areaId": "market",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 3
+    }
+   ],
+   "spiritStones": 407,
+   "kills": 0,
+   "dungeonsCleared": 0,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 32,
+   "bornDay": 5758.260683337758,
+   "bornAge": 32,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788796356399,
+   "color": "#a78bfa",
+   "clientLabel": "Web",
+   "createdAt": 1788793080511,
+   "lastSeen": 1788796457180,
+   "lastOfflineAt": 1788795217974
+  },
+  "24ccb05c-6258-4985-9c6d-11ebb62ea752": {
+   "id": "24ccb05c-6258-4985-9c6d-11ebb62ea752",
+   "name": "凡人试炼",
+   "path": "sword",
+   "realmIdx": 0,
+   "cultivation": 3,
+   "hp": 100,
+   "maxHp": 100,
+   "spirit": 95,
+   "maxSpirit": 100,
+   "stamina": 100,
+   "maxStamina": 100,
+   "body": 10,
+   "comprehension": 10,
+   "luck": 7,
+   "areaId": "forest",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 3
+    }
+   ],
+   "spiritStones": 50,
+   "kills": 0,
+   "dungeonsCleared": 0,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 16,
+   "bornDay": 82594.60808368941,
+   "bornAge": 16,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788924528436,
+   "color": "#8fd6b4",
+   "clientLabel": "玩家",
+   "isHuman": true,
+   "createdAt": 1788924520654,
+   "lastSeen": 1788924545653
+  },
+  "6360db9f-76e9-407b-96a2-cd7e0f2b35bd": {
+   "id": "6360db9f-76e9-407b-96a2-cd7e0f2b35bd",
+   "name": "111",
+   "path": "sword",
+   "realmIdx": 0,
+   "cultivation": 4,
+   "hp": 80,
+   "maxHp": 80,
+   "spirit": 120,
+   "maxSpirit": 120,
+   "stamina": 97,
+   "maxStamina": 100,
+   "body": 5,
+   "comprehension": 14,
+   "luck": 8,
+   "areaId": "forest",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 2
+    },
+    {
+     "name": "灵草",
+     "count": 1
+    }
+   ],
+   "spiritStones": 50,
+   "kills": 0,
+   "dungeonsCleared": 0,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 17,
+   "bornDay": 83105.35748369362,
+   "bornAge": 16,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": 1788925381108,
+   "color": "#a78bfa",
+   "clientLabel": "玩家",
+   "isHuman": true,
+   "createdAt": 1788925374879,
+   "lastSeen": 1788925403829,
+   "lastOfflineAt": 1788926049615
   }
  },
  "world": {
-  "gameDay": 1093.7789999987515,
+  "gameDay": 92368.39988377062,
   "speed": 1,
   "paused": false
  },
  "logs": [
   {
-   "t": 1788414599035,
-   "day": 834,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
+   "t": 1788498617581,
+   "day": 3830,
+   "text": "天降异象，灵气如潮！豆包 成功突破至【大乘初期】之境！寿元上限提升至 99999 岁。",
+   "type": "breakthrough"
   },
   {
-   "t": 1788414599306,
-   "day": 834,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414604578,
-   "day": 834,
-   "text": "豆玄 修炼完毕，修为 +40。",
+   "t": 1788498635128,
+   "day": 3841,
+   "text": "豆包 于山巅云海中参悟，修为 +16047149。",
    "type": "event-good"
   },
   {
-   "t": 1788414606266,
-   "day": 834,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
+   "t": 1788498635129,
+   "day": 3841,
+   "text": "豆包 灵光乍现，悟性 +1！",
+   "type": "breakthrough"
   },
   {
-   "t": 1788414607083,
-   "day": 834,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788414608097,
-   "day": 834,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414612092,
-   "day": 834,
-   "text": "豆玄 修炼完毕，修为 +40。",
+   "t": 1788498646646,
+   "day": 3848,
+   "text": "豆包 于山巅云海中参悟，修为 +16338962。",
    "type": "event-good"
   },
   {
-   "t": 1788414613494,
-   "day": 834,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788414616098,
-   "day": 834,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
-   "type": "system"
-  },
-  {
-   "t": 1788414616722,
-   "day": 834,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414619101,
-   "day": 834,
-   "text": "豆玄 修炼完毕，修为 +40。",
+   "t": 1788498654426,
+   "day": 3852,
+   "text": "豆包 于山巅云海中参悟，修为 +9541000。",
    "type": "event-good"
   },
   {
-   "t": 1788414620704,
-   "day": 834,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788414624608,
-   "day": 835,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788414625611,
-   "day": 835,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414626609,
-   "day": 835,
-   "text": "豆玄 修炼完毕，修为 +40。",
+   "t": 1788498657933,
+   "day": 3854,
+   "text": "豆包 于山巅云海中参悟，修为 +9541000。",
    "type": "event-good"
   },
   {
-   "t": 1788414627916,
-   "day": 835,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788414633616,
-   "day": 835,
-   "text": "豆玄 修炼完毕，修为 +40。",
+   "t": 1788498660940,
+   "day": 3855,
+   "text": "豆包 于山巅云海中参悟，修为 +9541000。",
    "type": "event-good"
   },
   {
-   "t": 1788414633616,
-   "day": 835,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
-   "type": "system"
-  },
-  {
-   "t": 1788414634225,
-   "day": 835,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414635161,
-   "day": 835,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788414641127,
-   "day": 835,
-   "text": "豆玄 修炼完毕，修为 +40。",
+   "t": 1788498664447,
+   "day": 3858,
+   "text": "豆包 于山巅云海中参悟，修为 +9541000。",
    "type": "event-good"
   },
   {
-   "t": 1788414642128,
-   "day": 835,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "t": 1788498664448,
+   "day": 3858,
+   "text": "豆包 灵光乍现，悟性 +1！",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788498667953,
+   "day": 3860,
+   "text": "豆包 于山巅云海中参悟，修为 +9642500。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498674211,
+   "day": 3863,
+   "text": "天降异象，灵气如潮！豆包 成功突破至【大乘中期】之境！寿元上限提升至 99999 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788498685478,
+   "day": 3870,
+   "text": "豆包 于山巅云海中参悟，修为 +19095000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498685478,
+   "day": 3870,
+   "text": "豆包 灵光乍现，悟性 +1！",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788498688483,
+   "day": 3872,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498691988,
+   "day": 3874,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498695496,
+   "day": 3876,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498698502,
+   "day": 3878,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498702008,
+   "day": 3880,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498705515,
+   "day": 3882,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498708521,
+   "day": 3884,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498712024,
+   "day": 3886,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498715529,
+   "day": 3888,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498719036,
+   "day": 3890,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498722040,
+   "day": 3892,
+   "text": "豆包 于山巅云海中参悟，修为 +19296000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498726072,
+   "day": 3895,
+   "text": "天降异象，灵气如潮！豆包 成功突破至【大乘后期】之境！寿元上限提升至 99999 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788498737062,
+   "day": 3901,
+   "text": "豆包 于山巅云海中参悟，修为 +28848000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498737062,
+   "day": 3901,
+   "text": "豆包 灵光乍现，悟性 +1！",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788498740566,
+   "day": 3903,
+   "text": "豆包 于山巅云海中参悟，修为 +29148500。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498743572,
+   "day": 3905,
+   "text": "豆包 于山巅云海中参悟，修为 +29148500。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498747077,
+   "day": 3907,
+   "text": "豆包 于山巅云海中参悟，修为 +29148500。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498750583,
+   "day": 3909,
+   "text": "豆包 于山巅云海中参悟，修为 +29148500。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498753061,
+   "day": 3910,
+   "text": "时间静止了。",
    "type": "system"
   },
   {
-   "t": 1788414642993,
-   "day": 835,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
+   "t": 1788498753063,
+   "day": 3910,
+   "text": "时间静止了。",
    "type": "system"
   },
   {
-   "t": 1788414643896,
-   "day": 835,
-   "text": "豆玄 动身前往 天剑宗，约需 12 秒。",
+   "t": 1788498753252,
+   "day": 3910,
+   "text": "时间静止了。",
    "type": "system"
   },
   {
-   "t": 1788414650640,
-   "day": 835,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
+   "t": 1788498753915,
+   "day": 3910,
+   "text": "时间静止了。",
    "type": "system"
   },
   {
-   "t": 1788414651625,
-   "day": 835,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
+   "t": 1788498753917,
+   "day": 3910,
+   "text": "时间静止了。",
    "type": "system"
   },
   {
-   "t": 1788414655647,
-   "day": 835,
-   "text": "豆玄 抵达 天剑宗。剑气冲霄的宗门山门，长老讲道之时，剑鸣之声十里可闻。",
+   "t": 1788498754481,
+   "day": 3910,
+   "text": "时间流速调整为 2 倍。",
    "type": "system"
   },
   {
-   "t": 1788414656066,
-   "day": 835,
-   "text": "豆玄 动身前往 镇妖塔，约需 4 秒。",
+   "t": 1788498755090,
+   "day": 3912,
+   "text": "豆包 于山巅云海中参悟，修为 +29148500。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788498758551,
+   "day": 3915,
+   "text": "时间静止了。",
    "type": "system"
   },
   {
-   "t": 1788414659151,
-   "day": 835,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "t": 1788498864748,
+   "day": 3915,
+   "text": "豆包 中断了请教。",
    "type": "system"
   },
   {
-   "t": 1788414659652,
-   "day": 835,
-   "text": "豆玄 抵达 镇妖塔。九层高塔镇压万妖，塔身刻满符箓，隐有妖啸传出。",
+   "t": 1788498874007,
+   "day": 3915,
+   "text": "天降异象，灵气如潮！豆包 成功突破至【大乘巅峰】之境！寿元上限提升至 99999 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788499052111,
+   "day": 3915,
+   "text": "豆包 中断了请教。",
    "type": "system"
   },
   {
-   "t": 1788414660410,
-   "day": 835,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
+   "t": 1788499094886,
+   "day": 3915,
+   "text": "豆包 中断了请教。",
    "type": "system"
   },
   {
-   "t": 1788414662194,
-   "day": 835,
-   "text": "【豆玄】踏入【镇妖塔】第一层。一层塔门轰然洞开，妖气扑面。",
+   "t": 1788499106493,
+   "day": 3915,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788499154405,
+   "day": 3915,
+   "text": "豆包 中断了修炼。",
+   "type": "system"
+  },
+  {
+   "t": 1788499161501,
+   "day": 3915,
+   "text": "豆包 动身前往 天剑宗，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499218310,
+   "day": 3915,
+   "text": "豆包 中断了前往天剑宗。",
+   "type": "system"
+  },
+  {
+   "t": 1788499218682,
+   "day": 3915,
+   "text": "豆包 动身前往 天剑宗，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499288862,
+   "day": 3915,
+   "text": "豆包 中断了前往天剑宗。",
+   "type": "system"
+  },
+  {
+   "t": 1788499292302,
+   "day": 3915,
+   "text": "豆包 动身前往 天剑宗，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499341568,
+   "day": 3915,
+   "text": "【豆玄】踏入【蓬莱仙岛】第一层。踏上仙岛，灵气浓得化不开。",
    "type": "dungeon"
   },
   {
-   "t": 1788414663862,
-   "day": 835,
-   "text": "【豆玄】遭遇【塔灵傀儡】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788414663862,
-   "day": 835,
-   "text": "【豆玄】前方妖气扑面，一只塔灵傀儡拦住了去路！",
+   "t": 1788499343343,
+   "day": 3915,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有【聚气丹】与灵石 23 枚。",
    "type": "dungeon"
   },
   {
-   "t": 1788414666842,
-   "day": 835,
-   "text": "【豆玄】击败【塔灵傀儡】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788414666842,
-   "day": 835,
-   "text": "豆玄 整了整衣衫，继续前行。",
+   "t": 1788499344933,
+   "day": 3915,
+   "text": "【豆玄】深入第 2 层。一步一莲花开，脚下自有道纹。",
    "type": "dungeon"
   },
   {
-   "t": 1788414667738,
-   "day": 835,
-   "text": "【豆玄】深入第 2 层。二层回廊上刻满镇压符文，微微发烫。",
+   "t": 1788499345951,
+   "day": 3915,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有【回血丹】与灵石 28 枚。",
    "type": "dungeon"
   },
   {
-   "t": 1788414668164,
-   "day": 835,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
-   "type": "system"
-  },
-  {
-   "t": 1788414668575,
-   "day": 835,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 31 枚。",
+   "t": 1788499347581,
+   "day": 3915,
+   "text": "【豆玄】深入第 3 层。古亭之中棋局未终，似有人对弈万载。",
    "type": "dungeon"
   },
   {
-   "t": 1788414668689,
-   "day": 835,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414670314,
-   "day": 835,
-   "text": "【豆玄】深入第 3 层。三层牢笼尽碎，妖物低吼不止。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414671157,
-   "day": 835,
-   "text": "【豆玄】遭遇【蚀骨蝠】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788414671157,
-   "day": 835,
-   "text": "【豆玄】前方妖气扑面，一只蚀骨蝠拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414674183,
-   "day": 835,
-   "text": "【豆玄】击败【蚀骨蝠】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788414674183,
-   "day": 835,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414675088,
-   "day": 835,
-   "text": "【豆玄】深入第 4 层。四层悬着一面照妖镜，光怪陆离。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414675931,
-   "day": 835,
+   "t": 1788499348623,
+   "day": 3915,
    "text": "【豆玄】此处空空荡荡，唯有风声。",
    "type": "dungeon"
   },
   {
-   "t": 1788414676675,
-   "day": 835,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788414677656,
-   "day": 835,
-   "text": "【豆玄】深入第 5 层。五层的地面渗出黑血，脚步声在身后响起。",
+   "t": 1788499350247,
+   "day": 3915,
+   "text": "【豆玄】深入第 4 层。剑冢万剑朝宗，剑鸣如潮。",
    "type": "dungeon"
   },
   {
-   "t": 1788414677834,
-   "day": 835,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414678505,
-   "day": 835,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
+   "t": 1788499351300,
+   "day": 3915,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 53 枚。",
    "type": "dungeon"
   },
   {
-   "t": 1788414680220,
-   "day": 835,
-   "text": "【豆玄】深入第 6 层。六层风声鹤唳，妖王之力隐隐可感。",
+   "t": 1788499352893,
+   "day": 3915,
+   "text": "【豆玄】深入第 5 层。云海翻涌，仙宫一角若隐若现。",
    "type": "dungeon"
   },
   {
-   "t": 1788414681014,
-   "day": 835,
-   "text": "【豆玄】此地残留一缕机缘，坐下参悟片刻，修为 +65。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414682770,
-   "day": 836,
-   "text": "【豆玄】深入第 7 层。塔顶妖王现出真身，妖云蔽月。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414683616,
-   "day": 836,
-   "text": "【豆玄】遭遇【镇塔妖王】！战斗开始。",
+   "t": 1788499353938,
+   "day": 3915,
+   "text": "【豆玄】遭遇【仙岛灵鹤】！战斗开始。",
    "type": "combat"
   },
   {
-   "t": 1788414683617,
-   "day": 836,
-   "text": "【豆玄】undefined",
+   "t": 1788499353938,
+   "day": 3915,
+   "text": "【豆玄】前方妖气扑面，一只仙岛灵鹤拦住了去路！",
    "type": "dungeon"
   },
   {
-   "t": 1788414685682,
-   "day": 836,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
-   "type": "system"
-  },
-  {
-   "t": 1788414686456,
-   "day": 836,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414689516,
-   "day": 836,
-   "text": "【豆玄】击败【镇塔妖王】！",
+   "t": 1788499357249,
+   "day": 3915,
+   "text": "【豆玄】击败【仙岛灵鹤】！",
    "type": "combat"
   },
   {
-   "t": 1788414689516,
-   "day": 836,
-   "text": "【豆玄】通关【镇妖塔】！获得修为 +300，灵石 +120，物品【回血丹】。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788414689516,
-   "day": 836,
-   "text": "豆玄 带着战利品离开了【镇妖塔】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414694187,
-   "day": 836,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788414695155,
-   "day": 836,
-   "text": "【豆玄】踏入【镇妖塔】第一层。一层塔门轰然洞开，妖气扑面。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414695235,
-   "day": 836,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414696899,
-   "day": 836,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 22 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414698573,
-   "day": 836,
-   "text": "【豆玄】深入第 2 层。二层回廊上刻满镇压符文，微微发烫。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414699406,
-   "day": 836,
-   "text": "【豆玄】误触了禁制！一股大力涌来，损失 14 点生命。",
-   "type": "event-bad"
-  },
-  {
-   "t": 1788414701157,
-   "day": 836,
-   "text": "【豆玄】深入第 3 层。三层牢笼尽碎，妖物低吼不止。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414701993,
-   "day": 836,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有【回血丹】与灵石 37 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414703201,
-   "day": 836,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
-   "type": "system"
-  },
-  {
-   "t": 1788414703655,
-   "day": 836,
-   "text": "【豆玄】深入第 4 层。四层悬着一面照妖镜，光怪陆离。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414703857,
-   "day": 836,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414704499,
-   "day": 836,
-   "text": "【豆玄】遭遇【妖狐】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788414704499,
-   "day": 836,
-   "text": "【豆玄】前方妖气扑面，一只妖狐拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414707519,
-   "day": 836,
-   "text": "【豆玄】击败【妖狐】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788414707519,
-   "day": 836,
+   "t": 1788499357250,
+   "day": 3915,
    "text": "豆玄 整了整衣衫，继续前行。",
    "type": "dungeon"
   },
   {
-   "t": 1788414708396,
-   "day": 836,
-   "text": "【豆玄】深入第 5 层。五层的地面渗出黑血，脚步声在身后响起。",
+   "t": 1788499357897,
+   "day": 3915,
+   "text": "【豆玄】深入第 6 层。灵泉之中倒映着另一个世界。",
    "type": "dungeon"
   },
   {
-   "t": 1788414709233,
-   "day": 836,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 46 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414710962,
-   "day": 836,
-   "text": "【豆玄】深入第 6 层。六层风声鹤唳，妖王之力隐隐可感。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414711711,
-   "day": 836,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "t": 1788499358162,
+   "day": 3915,
+   "text": "时间流速调整为 1 倍。",
    "type": "system"
   },
   {
-   "t": 1788414711803,
-   "day": 836,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 67 枚。",
+   "t": 1788499358899,
+   "day": 3916,
+   "text": "【豆玄】此处空空荡荡，唯有风声。",
    "type": "dungeon"
   },
   {
-   "t": 1788414712620,
-   "day": 836,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
+   "t": 1788499359100,
+   "day": 3916,
+   "text": "时间流速调整为 1 倍。",
    "type": "system"
   },
   {
-   "t": 1788414713502,
-   "day": 836,
-   "text": "【豆玄】深入第 7 层。塔顶妖王现出真身，妖云蔽月。",
+   "t": 1788499360490,
+   "day": 3917,
+   "text": "【豆玄】深入第 7 层。大道之音自九天垂落，洗炼身心。",
    "type": "dungeon"
   },
   {
-   "t": 1788414714331,
-   "day": 836,
-   "text": "【豆玄】遭遇【镇塔妖王】！战斗开始。",
+   "t": 1788499361499,
+   "day": 3917,
+   "text": "【豆玄】此地残留一缕机缘，坐下参悟片刻，修为 +92。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499361668,
+   "day": 3918,
+   "text": "豆包 抵达 天剑宗。剑气冲霄的宗门山门，长老讲道之时，剑鸣之声十里可闻。",
+   "type": "system"
+  },
+  {
+   "t": 1788499363130,
+   "day": 3918,
+   "text": "【豆玄】深入第 8 层。仙尊残影负手而立，目光穿越万年。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499364257,
+   "day": 3919,
+   "text": "【豆玄】遭遇【蓬莱仙尊残影】！战斗开始。",
    "type": "combat"
   },
   {
-   "t": 1788414714331,
-   "day": 836,
+   "t": 1788499364257,
+   "day": 3919,
    "text": "【豆玄】undefined",
    "type": "dungeon"
   },
   {
-   "t": 1788414718828,
-   "day": 836,
-   "text": "豆玄 重伤昏迷，被路过的散修抬回青石村。（灵石 -134，修为 -300）",
-   "type": "event-bad"
-  },
-  {
-   "t": 1788414720219,
-   "day": 836,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
-   "type": "system"
-  },
-  {
-   "t": 1788414721239,
-   "day": 836,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414727727,
-   "day": 836,
-   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788414729228,
-   "day": 836,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788414730029,
-   "day": 836,
-   "text": "刻锱 动身前往 灵兽森林，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414731232,
-   "day": 836,
-   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788414737753,
-   "day": 836,
-   "text": "刻锱 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
-   "type": "system"
-  },
-  {
-   "t": 1788414760475,
-   "day": 837,
-   "text": "刻锱 动身前往 散修集市，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414768292,
-   "day": 837,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788414792870,
-   "day": 837,
-   "text": "刻锱 动身前往 幽冥洞府，约需 12 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414804853,
-   "day": 838,
-   "text": "刻锱 抵达 幽冥洞府。洞口黑雾缭绕，隐有鬼哭。据传洞府深处藏着筑基丹方。",
-   "type": "system"
-  },
-  {
-   "t": 1788414820673,
-   "day": 838,
-   "text": "【刻锱】踏入【幽冥洞府】第一层。洞口阴风扑面，石壁上磷火明灭。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414861866,
-   "day": 838,
-   "text": "【刻锱】遭遇【石皮蜥】！战斗开始。",
+   "t": 1788499372241,
+   "day": 3924,
+   "text": "【豆玄】击败【蓬莱仙尊残影】！",
    "type": "combat"
   },
   {
-   "t": 1788414861866,
-   "day": 838,
-   "text": "【刻锱】前方妖气扑面，一只石皮蜥拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414872102,
-   "day": 839,
-   "text": "【刻锱】击败【石皮蜥】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788414872102,
-   "day": 839,
-   "text": "刻锱 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414889845,
-   "day": 839,
-   "text": "【刻锱】深入第 2 层。岔路深处传来滴水声，回音不绝。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414910279,
-   "day": 839,
-   "text": "【刻锱】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414911774,
-   "day": 839,
-   "text": "【刻锱】深入第 3 层。石室中央摆着一口残破的石棺。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414912976,
-   "day": 839,
-   "text": "【刻锱】此地残留一缕机缘，坐下参悟片刻，修为 +49。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414914519,
-   "day": 839,
-   "text": "【刻锱】深入第 4 层。地道向下倾斜，寒气越来越重。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414915720,
-   "day": 839,
-   "text": "【刻锱】发现一处前人遗落的宝箱！内有灵石 34 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414937720,
-   "day": 840,
-   "text": "【刻锱】深入第 5 层。幽冥老祖盘坐于骨殿之上，缓缓睁开了眼。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414938943,
-   "day": 840,
-   "text": "【刻锱】遭遇【幽冥老祖】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788414938943,
-   "day": 840,
-   "text": "【刻锱】undefined",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788414947336,
-   "day": 840,
-   "text": "豆玄 动身前往 天剑宗，约需 12 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788414958257,
-   "day": 840,
-   "text": "【刻锱】击败【幽冥老祖】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788414958257,
-   "day": 840,
-   "text": "【刻锱】通关【幽冥洞府】！获得修为 +100，灵石 +60，物品【聚气丹】。",
+   "t": 1788499372242,
+   "day": 3924,
+   "text": "【豆玄】通关【蓬莱仙岛】！获得修为 +6000，灵石 +700，物品【回血丹】。",
    "type": "breakthrough"
   },
   {
-   "t": 1788414958257,
-   "day": 840,
-   "text": "刻锱 带着战利品离开了【幽冥洞府】。",
+   "t": 1788499372242,
+   "day": 3924,
+   "text": "豆玄 带着战利品离开了【蓬莱仙岛】。",
    "type": "dungeon"
   },
   {
-   "t": 1788414959046,
-   "day": 840,
-   "text": "豆玄 抵达 天剑宗。剑气冲霄的宗门山门，长老讲道之时，剑鸣之声十里可闻。",
-   "type": "system"
-  },
-  {
-   "t": 1788415000118,
-   "day": 841,
-   "text": "刻锱 动身前往 散修集市，约需 12 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788415012104,
-   "day": 841,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788415013106,
-   "day": 841,
-   "text": "豆玄 聆听天剑宗长老讲道，修为 +86。",
+   "t": 1788499378686,
+   "day": 3928,
+   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
    "type": "event-good"
   },
   {
-   "t": 1788415035038,
-   "day": 841,
-   "text": "豆玄 动身前往 镇妖塔，约需 4 秒。",
+   "t": 1788499383198,
+   "day": 3931,
+   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499386077,
+   "day": 3932,
+   "text": "豆玄 动身前往 上古秘境，约需 4 秒。",
    "type": "system"
   },
   {
-   "t": 1788415038639,
-   "day": 841,
-   "text": "豆玄 抵达 镇妖塔。九层高塔镇压万妖，塔身刻满符箓，隐有妖啸传出。",
+   "t": 1788499389707,
+   "day": 3934,
+   "text": "豆玄 抵达 上古秘境。海雾深处的孤岛秘境，结界斑驳，似有上古遗宝。",
    "type": "system"
   },
   {
-   "t": 1788415045636,
-   "day": 842,
-   "text": "【豆玄】踏入【镇妖塔】第一层。一层塔门轰然洞开，妖气扑面。",
+   "t": 1788499390727,
+   "day": 3935,
+   "text": "豆玄 动身前往 海底龙宫，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499394713,
+   "day": 3937,
+   "text": "豆玄 抵达 海底龙宫。海面之下珊瑚宫阙辉煌，虾兵蟹将往来巡守。",
+   "type": "system"
+  },
+  {
+   "t": 1788499396274,
+   "day": 3938,
+   "text": "豆玄 动身前往 海滩，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499400220,
+   "day": 3941,
+   "text": "豆玄 抵达 海滩。细软沙滩上散落着贝壳与灵石，潮起潮落间或有海货。",
+   "type": "system"
+  },
+  {
+   "t": 1788499401042,
+   "day": 3941,
+   "text": "豆玄 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499404726,
+   "day": 3943,
+   "text": "豆玄 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788499405860,
+   "day": 3944,
+   "text": "豆玄 动身前往 青石村，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499409739,
+   "day": 3946,
+   "text": "豆玄 抵达 青石村。凡尘边境的小村落，鸡犬相闻。村口老槐树下，常有散修歇脚。",
+   "type": "system"
+  },
+  {
+   "t": 1788499410175,
+   "day": 3946,
+   "text": "豆玄 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788499415749,
+   "day": 3950,
+   "text": "豆玄 修炼完毕，修为 +3520。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499418568,
+   "day": 3952,
+   "text": "豆玄 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788499424262,
+   "day": 3955,
+   "text": "豆玄 修炼完毕，修为 +3520。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499428082,
+   "day": 3957,
+   "text": "豆玄 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499431775,
+   "day": 3960,
+   "text": "豆玄 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788499432857,
+   "day": 3960,
+   "text": "豆玄 动身前往 海滩，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499436784,
+   "day": 3963,
+   "text": "豆玄 抵达 海滩。细软沙滩上散落着贝壳与灵石，潮起潮落间或有海货。",
+   "type": "system"
+  },
+  {
+   "t": 1788499438485,
+   "day": 3964,
+   "text": "豆玄 动身前往 海底龙宫，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499442290,
+   "day": 3966,
+   "text": "豆玄 抵达 海底龙宫。海面之下珊瑚宫阙辉煌，虾兵蟹将往来巡守。",
+   "type": "system"
+  },
+  {
+   "t": 1788499443279,
+   "day": 3966,
+   "text": "豆玄 动身前往 上古秘境，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499444793,
+   "day": 3968,
+   "text": "豆包 聆听天剑宗长老讲道，修为 +40000000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499446797,
+   "day": 3969,
+   "text": "豆玄 抵达 上古秘境。海雾深处的孤岛秘境，结界斑驳，似有上古遗宝。",
+   "type": "system"
+  },
+  {
+   "t": 1788499447929,
+   "day": 3969,
+   "text": "豆玄 动身前往 蓬莱仙岛，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499451803,
+   "day": 3972,
+   "text": "豆玄 抵达 蓬莱仙岛。传说中的仙岛，一步一景皆是大道，亦有仙尊残影守岛。",
+   "type": "system"
+  },
+  {
+   "t": 1788499452732,
+   "day": 3972,
+   "text": "【豆玄】踏入【蓬莱仙岛】第一层。踏上仙岛，灵气浓得化不开。",
    "type": "dungeon"
   },
   {
-   "t": 1788415047030,
-   "day": 842,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有【聚气丹】与灵石 10 枚。",
+   "t": 1788499454498,
+   "day": 3973,
+   "text": "【豆玄】遭遇【仙岛灵鹤】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788499454498,
+   "day": 3973,
+   "text": "【豆玄】前方妖气扑面，一只仙岛灵鹤拦住了去路！",
    "type": "dungeon"
   },
   {
-   "t": 1788415049289,
-   "day": 842,
-   "text": "【豆玄】深入第 2 层。二层回廊上刻满镇压符文，微微发烫。",
+   "t": 1788499457752,
+   "day": 3975,
+   "text": "【豆玄】击败【仙岛灵鹤】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788499457753,
+   "day": 3975,
+   "text": "豆玄 整了整衣衫，继续前行。",
    "type": "dungeon"
   },
   {
-   "t": 1788415050660,
-   "day": 842,
-   "text": "【豆玄】此地残留一缕机缘，坐下参悟片刻，修为 +41。",
+   "t": 1788499458402,
+   "day": 3976,
+   "text": "【豆玄】深入第 2 层。一步一莲花开，脚下自有道纹。",
    "type": "dungeon"
   },
   {
-   "t": 1788415052909,
-   "day": 842,
-   "text": "【豆玄】深入第 3 层。三层牢笼尽碎，妖物低吼不止。",
+   "t": 1788499459413,
+   "day": 3976,
+   "text": "【豆玄】遭遇【云海妖蛟】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788499459413,
+   "day": 3976,
+   "text": "【豆玄】前方妖气扑面，一只云海妖蛟拦住了去路！",
    "type": "dungeon"
   },
   {
-   "t": 1788415054271,
-   "day": 842,
+   "t": 1788499462685,
+   "day": 3978,
+   "text": "【豆玄】击败【云海妖蛟】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788499462685,
+   "day": 3978,
+   "text": "豆玄 整了整衣衫，继续前行。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499463347,
+   "day": 3979,
+   "text": "【豆玄】深入第 3 层。古亭之中棋局未终，似有人对弈万载。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499464407,
+   "day": 3979,
+   "text": "【豆玄】遭遇【守岛剑灵】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788499464408,
+   "day": 3979,
+   "text": "【豆玄】前方妖气扑面，一只守岛剑灵拦住了去路！",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499465319,
+   "day": 3980,
+   "text": "豆包 聆听天剑宗长老讲道，修为 +40000000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499467623,
+   "day": 3981,
+   "text": "【豆玄】击败【守岛剑灵】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788499467624,
+   "day": 3981,
+   "text": "豆玄 整了整衣衫，继续前行。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499468234,
+   "day": 3981,
+   "text": "【豆玄】深入第 4 层。剑冢万剑朝宗，剑鸣如潮。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499469265,
+   "day": 3982,
+   "text": "【豆玄】误触了禁制！一股大力涌来，损失 33 点生命。",
+   "type": "event-bad"
+  },
+  {
+   "t": 1788499470920,
+   "day": 3983,
+   "text": "【豆玄】深入第 5 层。云海翻涌，仙宫一角若隐若现。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499471971,
+   "day": 3984,
+   "text": "【豆玄】遭遇【守岛剑灵】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788499471972,
+   "day": 3984,
+   "text": "【豆玄】前方妖气扑面，一只守岛剑灵拦住了去路！",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499475199,
+   "day": 3986,
+   "text": "【豆玄】击败【守岛剑灵】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788499475199,
+   "day": 3986,
+   "text": "豆玄 整了整衣衫，继续前行。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499475850,
+   "day": 3986,
+   "text": "【豆玄】深入第 6 层。灵泉之中倒映着另一个世界。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499476902,
+   "day": 3987,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有【聚气丹】与灵石 66 枚。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499477838,
+   "day": 3987,
+   "text": "豆包 聆听天剑宗长老讲道，修为 +40000000。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499477838,
+   "day": 3987,
+   "text": "豆包 灵光乍现，悟性 +1！",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788499478498,
+   "day": 3988,
+   "text": "【豆玄】深入第 7 层。大道之音自九天垂落，洗炼身心。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499479501,
+   "day": 3988,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 74 枚。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499481112,
+   "day": 3989,
+   "text": "【豆玄】深入第 8 层。仙尊残影负手而立，目光穿越万年。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499482241,
+   "day": 3990,
+   "text": "【豆玄】遭遇【蓬莱仙尊残影】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788499482241,
+   "day": 3990,
+   "text": "【豆玄】undefined",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499490110,
+   "day": 3995,
+   "text": "【豆玄】击败【蓬莱仙尊残影】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788499490110,
+   "day": 3995,
+   "text": "【豆玄】通关【蓬莱仙岛】！获得修为 +6000，灵石 +700，物品【回血丹】。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788499490111,
+   "day": 3995,
+   "text": "豆玄 带着战利品离开了【蓬莱仙岛】。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499496861,
+   "day": 3999,
+   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499497720,
+   "day": 3999,
+   "text": "豆包 动身前往 洗剑湖，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499500866,
+   "day": 4001,
+   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499501368,
+   "day": 4001,
+   "text": "豆包 抵达 洗剑湖。湖水澄澈如镜，湖底沉着历代剑修的佩剑，剑气森然。",
+   "type": "system"
+  },
+  {
+   "t": 1788499504874,
+   "day": 4004,
+   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499508226,
+   "day": 4005,
+   "text": "豆玄 动身前往 上古秘境，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499511728,
+   "day": 4007,
+   "text": "豆包 动身前往 九天宗门，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499511885,
+   "day": 4008,
+   "text": "豆玄 抵达 上古秘境。海雾深处的孤岛秘境，结界斑驳，似有上古遗宝。",
+   "type": "system"
+  },
+  {
+   "t": 1788499513194,
+   "day": 4008,
+   "text": "豆玄 动身前往 海底龙宫，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499515389,
+   "day": 4010,
+   "text": "豆包 抵达 九天宗门。浮于九天之上的仙家宫阙，云雾缭绕，仙鹤盘旋。",
+   "type": "system"
+  },
+  {
+   "t": 1788499516893,
+   "day": 4011,
+   "text": "豆玄 抵达 海底龙宫。海面之下珊瑚宫阙辉煌，虾兵蟹将往来巡守。",
+   "type": "system"
+  },
+  {
+   "t": 1788499517906,
+   "day": 4011,
+   "text": "豆玄 动身前往 海滩，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499521900,
+   "day": 4014,
+   "text": "豆玄 抵达 海滩。细软沙滩上散落着贝壳与灵石，潮起潮落间或有海货。",
+   "type": "system"
+  },
+  {
+   "t": 1788499523504,
+   "day": 4015,
+   "text": "豆玄 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499527410,
+   "day": 4017,
+   "text": "豆玄 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788499527411,
+   "day": 4017,
+   "text": "豆包 于仙宫广场听仙人讲道，如醍醐灌顶。（修为 +6000000）",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499529045,
+   "day": 4018,
+   "text": "豆玄 动身前往 青石村，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499532915,
+   "day": 4020,
+   "text": "豆玄 抵达 青石村。凡尘边境的小村落，鸡犬相闻。村口老槐树下，常有散修歇脚。",
+   "type": "system"
+  },
+  {
+   "t": 1788499533374,
+   "day": 4020,
+   "text": "豆玄 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788499538921,
+   "day": 4024,
+   "text": "豆玄 修炼完毕，修为 +3520。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499542562,
+   "day": 4026,
+   "text": "豆玄 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499542720,
+   "day": 4026,
+   "text": "豆包 动身前往 仙宫遗址，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499546435,
+   "day": 4029,
+   "text": "豆玄 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788499546435,
+   "day": 4029,
+   "text": "豆包 抵达 仙宫遗址。上古仙宫崩塌后的遗址，断壁残垣间犹存大道痕迹。",
+   "type": "system"
+  },
+  {
+   "t": 1788499547302,
+   "day": 4029,
+   "text": "豆玄 动身前往 海滩，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499550943,
+   "day": 4031,
+   "text": "豆玄 抵达 海滩。细软沙滩上散落着贝壳与灵石，潮起潮落间或有海货。",
+   "type": "system"
+  },
+  {
+   "t": 1788499551920,
+   "day": 4032,
+   "text": "豆玄 动身前往 海底龙宫，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499555449,
+   "day": 4034,
+   "text": "豆玄 抵达 海底龙宫。海面之下珊瑚宫阙辉煌，虾兵蟹将往来巡守。",
+   "type": "system"
+  },
+  {
+   "t": 1788499556595,
+   "day": 4035,
+   "text": "豆玄 动身前往 上古秘境，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499558954,
+   "day": 4036,
+   "text": "豆包 残垣断壁间道韵犹存，参悟半日，修为暴涨。（修为 +6000000）",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499560457,
+   "day": 4037,
+   "text": "豆玄 抵达 上古秘境。海雾深处的孤岛秘境，结界斑驳，似有上古遗宝。",
+   "type": "system"
+  },
+  {
+   "t": 1788499561256,
+   "day": 4037,
+   "text": "豆玄 动身前往 蓬莱仙岛，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499564963,
+   "day": 4040,
+   "text": "豆玄 抵达 蓬莱仙岛。传说中的仙岛，一步一景皆是大道，亦有仙尊残影守岛。",
+   "type": "system"
+  },
+  {
+   "t": 1788499566035,
+   "day": 4040,
+   "text": "【豆玄】踏入【蓬莱仙岛】第一层。踏上仙岛，灵气浓得化不开。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499567747,
+   "day": 4041,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 13 枚。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499569361,
+   "day": 4042,
+   "text": "【豆玄】深入第 2 层。一步一莲花开，脚下自有道纹。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499570407,
+   "day": 4043,
+   "text": "【豆玄】误触了禁制！一股大力涌来，损失 19 点生命。",
+   "type": "event-bad"
+  },
+  {
+   "t": 1788499572017,
+   "day": 4044,
+   "text": "【豆玄】深入第 3 层。古亭之中棋局未终，似有人对弈万载。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499573078,
+   "day": 4044,
    "text": "【豆玄】此地残留一缕机缘，坐下参悟片刻，修为 +59。",
    "type": "dungeon"
   },
   {
-   "t": 1788415056537,
-   "day": 842,
-   "text": "【豆玄】深入第 4 层。四层悬着一面照妖镜，光怪陆离。",
+   "t": 1788499574687,
+   "day": 4045,
+   "text": "【豆玄】深入第 4 层。剑冢万剑朝宗，剑鸣如潮。",
    "type": "dungeon"
   },
   {
-   "t": 1788415057909,
-   "day": 842,
+   "t": 1788499575748,
+   "day": 4046,
    "text": "【豆玄】此处空空荡荡，唯有风声。",
    "type": "dungeon"
   },
   {
-   "t": 1788415060142,
-   "day": 842,
-   "text": "【豆玄】深入第 5 层。五层的地面渗出黑血，脚步声在身后响起。",
+   "t": 1788499577408,
+   "day": 4047,
+   "text": "【豆玄】深入第 5 层。云海翻涌，仙宫一角若隐若现。",
    "type": "dungeon"
   },
   {
-   "t": 1788415061510,
-   "day": 842,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
+   "t": 1788499578362,
+   "day": 4047,
+   "text": "【豆玄】遭遇【云海妖蛟】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788499578363,
+   "day": 4047,
+   "text": "【豆玄】前方妖气扑面，一只云海妖蛟拦住了去路！",
    "type": "dungeon"
   },
   {
-   "t": 1788415063754,
-   "day": 842,
-   "text": "【豆玄】深入第 6 层。六层风声鹤唳，妖王之力隐隐可感。",
+   "t": 1788499581654,
+   "day": 4050,
+   "text": "【豆玄】击败【云海妖蛟】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788499581654,
+   "day": 4050,
+   "text": "豆玄 整了整衣衫，继续前行。",
    "type": "dungeon"
   },
   {
-   "t": 1788415065144,
-   "day": 842,
-   "text": "【豆玄】误触了禁制！一股大力涌来，损失 43 点生命。",
+   "t": 1788499582309,
+   "day": 4050,
+   "text": "【豆玄】深入第 6 层。灵泉之中倒映着另一个世界。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499583353,
+   "day": 4050,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 60 枚。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499584976,
+   "day": 4051,
+   "text": "【豆玄】深入第 7 层。大道之音自九天垂落，洗炼身心。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499586004,
+   "day": 4052,
+   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 73 枚。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499587617,
+   "day": 4053,
+   "text": "【豆玄】深入第 8 层。仙尊残影负手而立，目光穿越万年。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499588735,
+   "day": 4054,
+   "text": "【豆玄】遭遇【蓬莱仙尊残影】！战斗开始。",
+   "type": "combat"
+  },
+  {
+   "t": 1788499588736,
+   "day": 4054,
+   "text": "【豆玄】undefined",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499596446,
+   "day": 4058,
+   "text": "【豆玄】击败【蓬莱仙尊残影】！",
+   "type": "combat"
+  },
+  {
+   "t": 1788499596447,
+   "day": 4058,
+   "text": "【豆玄】通关【蓬莱仙岛】！获得修为 +6000，灵石 +700，物品【回血丹】。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788499596447,
+   "day": 4058,
+   "text": "豆玄 带着战利品离开了【蓬莱仙岛】。",
+   "type": "dungeon"
+  },
+  {
+   "t": 1788499597823,
+   "day": 4059,
+   "text": "豆包 动身前往 天劫雷池，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499601513,
+   "day": 4062,
+   "text": "豆包 抵达 天劫雷池。劫云常年不散，雷池中沉睡着渡劫失败者的残识。",
+   "type": "system"
+  },
+  {
+   "t": 1788499602516,
+   "day": 4062,
+   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499606519,
+   "day": 4065,
+   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788499609872,
+   "day": 4066,
+   "text": "豆玄 动身前往 上古秘境，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499613524,
+   "day": 4069,
+   "text": "豆玄 抵达 上古秘境。海雾深处的孤岛秘境，结界斑驳，似有上古遗宝。",
+   "type": "system"
+  },
+  {
+   "t": 1788499614598,
+   "day": 4069,
+   "text": "豆玄 动身前往 海底龙宫，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499616778,
+   "day": 4071,
+   "text": "时间静止了。",
+   "type": "system"
+  },
+  {
+   "t": 1788499637412,
+   "day": 4071,
+   "text": "时间静止了。",
+   "type": "system"
+  },
+  {
+   "t": 1788499642837,
+   "day": 4071,
+   "text": "豆包 动身前往 仙宫遗址，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788499706344,
+   "day": 4071,
+   "text": "天灾过境，天地失序。上界镇魔归位，万物重续。",
    "type": "event-bad"
   },
   {
-   "t": 1788415090516,
-   "day": 842,
-   "text": "【豆玄】深入第 7 层。塔顶妖王现出真身，妖云蔽月。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415091880,
-   "day": 842,
-   "text": "【豆玄】遭遇【镇塔妖王】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788415091880,
-   "day": 842,
-   "text": "【豆玄】undefined",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415109417,
-   "day": 843,
-   "text": "【豆玄】击败【镇塔妖王】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788415109418,
-   "day": 843,
-   "text": "【豆玄】通关【镇妖塔】！获得修为 +300，灵石 +120，物品【回血丹】。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788415109418,
-   "day": 843,
-   "text": "豆玄 带着战利品离开了【镇妖塔】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415115865,
-   "day": 843,
-   "text": "刻锱 动身前往 幽冥洞府，约需 12 秒。",
+   "t": 1788499718039,
+   "day": 4071,
+   "text": "豆包 中断了前往仙宫遗址。",
    "type": "system"
   },
   {
-   "t": 1788415127749,
-   "day": 843,
-   "text": "刻锱 抵达 幽冥洞府。洞口黑雾缭绕，隐有鬼哭。据传洞府深处藏着筑基丹方。",
+   "t": 1788499720393,
+   "day": 4071,
+   "text": "豆包 动身前往 九天宗门，约需 4 秒。",
    "type": "system"
   },
   {
-   "t": 1788415129795,
-   "day": 843,
-   "text": "【刻锱】踏入【幽冥洞府】第一层。洞口阴风扑面，石壁上磷火明灭。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415131000,
-   "day": 843,
-   "text": "【刻锱】发现一处前人遗落的宝箱！内有灵石 22 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415132423,
-   "day": 843,
-   "text": "【刻锱】深入第 2 层。岔路深处传来滴水声，回音不绝。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415133622,
-   "day": 843,
-   "text": "【刻锱】遭遇【石皮蜥】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788415133622,
-   "day": 843,
-   "text": "【刻锱】前方妖气扑面，一只石皮蜥拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415135033,
-   "day": 843,
-   "text": "【刻锱】击败【石皮蜥】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788415135033,
-   "day": 843,
-   "text": "刻锱 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415136447,
-   "day": 843,
-   "text": "【刻锱】深入第 3 层。石室中央摆着一口残破的石棺。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415137651,
-   "day": 843,
-   "text": "【刻锱】此地残留一缕机缘，坐下参悟片刻，修为 +41。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415139070,
-   "day": 843,
-   "text": "【刻锱】深入第 4 层。地道向下倾斜，寒气越来越重。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415140270,
-   "day": 843,
-   "text": "【刻锱】发现一处前人遗落的宝箱！内有灵石 37 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415141670,
-   "day": 843,
-   "text": "【刻锱】深入第 5 层。幽冥老祖盘坐于骨殿之上，缓缓睁开了眼。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415142873,
-   "day": 843,
-   "text": "【刻锱】遭遇【幽冥老祖】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788415142873,
-   "day": 843,
-   "text": "【刻锱】undefined",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415145268,
-   "day": 843,
-   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415146887,
-   "day": 843,
-   "text": "【刻锱】击败【幽冥老祖】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788415146887,
-   "day": 843,
-   "text": "【刻锱】通关【幽冥洞府】！获得修为 +100，灵石 +60，物品【聚气丹】。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788415146887,
-   "day": 843,
-   "text": "刻锱 带着战利品离开了【幽冥洞府】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415148774,
-   "day": 843,
-   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415152277,
-   "day": 843,
-   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415153067,
-   "day": 843,
-   "text": "【豆玄】踏入【镇妖塔】第一层。一层塔门轰然洞开，妖气扑面。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415154399,
-   "day": 843,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 28 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415155923,
-   "day": 843,
-   "text": "【豆玄】深入第 2 层。二层回廊上刻满镇压符文，微微发烫。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415156760,
-   "day": 843,
-   "text": "【豆玄】遭遇【塔灵傀儡】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788415156760,
-   "day": 843,
-   "text": "【豆玄】前方妖气扑面，一只塔灵傀儡拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415159919,
-   "day": 843,
-   "text": "【豆玄】击败【塔灵傀儡】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788415159920,
-   "day": 843,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415160607,
-   "day": 843,
-   "text": "【豆玄】深入第 3 层。三层牢笼尽碎，妖物低吼不止。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415161452,
-   "day": 843,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415162951,
-   "day": 844,
-   "text": "【豆玄】深入第 4 层。四层悬着一面照妖镜，光怪陆离。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415163796,
-   "day": 844,
-   "text": "【豆玄】遭遇【蚀骨蝠】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788415163796,
-   "day": 844,
-   "text": "【豆玄】前方妖气扑面，一只蚀骨蝠拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415166901,
-   "day": 844,
-   "text": "【豆玄】击败【蚀骨蝠】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788415166901,
-   "day": 844,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415167582,
-   "day": 844,
-   "text": "【豆玄】深入第 5 层。五层的地面渗出黑血，脚步声在身后响起。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415168416,
-   "day": 844,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有【回血丹】与灵石 61 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415169885,
-   "day": 844,
-   "text": "【豆玄】深入第 6 层。六层风声鹤唳，妖王之力隐隐可感。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415170735,
-   "day": 844,
-   "text": "【豆玄】遭遇【塔灵傀儡】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788415170735,
-   "day": 844,
-   "text": "【豆玄】前方妖气扑面，一只塔灵傀儡拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415173831,
-   "day": 844,
-   "text": "【豆玄】击败【塔灵傀儡】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788415173831,
-   "day": 844,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415174525,
-   "day": 844,
-   "text": "【豆玄】深入第 7 层。塔顶妖王现出真身，妖云蔽月。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415175358,
-   "day": 844,
-   "text": "【豆玄】遭遇【镇塔妖王】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788415175358,
-   "day": 844,
-   "text": "【豆玄】undefined",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415181606,
-   "day": 844,
-   "text": "【豆玄】击败【镇塔妖王】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788415181606,
-   "day": 844,
-   "text": "【豆玄】通关【镇妖塔】！获得修为 +300，灵石 +120，物品【回血丹】。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788415181606,
-   "day": 844,
-   "text": "豆玄 带着战利品离开了【镇妖塔】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788415184872,
-   "day": 844,
-   "text": "天降异象，灵气如潮！豆玄 成功突破至【元婴】之境！寿元上限提升至 500 岁。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788415355605,
-   "day": 847,
-   "text": "一位【kz】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
-  },
-  {
-   "t": 1788415381575,
-   "day": 847,
-   "text": "一位【kz】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
-  },
-  {
-   "t": 1788415435375,
-   "day": 848,
-   "text": "刻锱 动身前往 散修集市，约需 12 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788415447219,
-   "day": 848,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788415449693,
-   "day": 848,
-   "text": "刻锱 购入【筑基丹】×1，灵石 -120。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415449891,
-   "day": 848,
-   "text": "刻锱 售出【灵草】×7，灵石 +35。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415450087,
-   "day": 848,
-   "text": "刻锱 服下【聚气丹】，灵力 +32。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415475351,
-   "day": 849,
-   "text": "天降异象，灵气如潮！刻锱 成功突破至【金丹】之境！寿元上限提升至 300 岁。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788415544980,
-   "day": 850,
-   "text": "刻锱 动身前往 青石村，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788415548868,
-   "day": 850,
-   "text": "刻锱 抵达 青石村。凡尘边境的小村落，鸡犬相闻。村口老槐树下，常有散修歇脚。",
-   "type": "system"
-  },
-  {
-   "t": 1788415550460,
-   "day": 850,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415556379,
-   "day": 850,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415694392,
-   "day": 852,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415700075,
-   "day": 852,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415702119,
-   "day": 853,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415708086,
-   "day": 853,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415709840,
-   "day": 853,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415715597,
-   "day": 853,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415717565,
-   "day": 853,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415723107,
-   "day": 853,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415725289,
-   "day": 853,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415731117,
-   "day": 853,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415733006,
-   "day": 853,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415738628,
-   "day": 853,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415740721,
-   "day": 853,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415746639,
-   "day": 853,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415748448,
-   "day": 853,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415754151,
-   "day": 853,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415861752,
-   "day": 855,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415867304,
-   "day": 855,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415869641,
-   "day": 855,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415875316,
-   "day": 855,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415877520,
-   "day": 855,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415883326,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415885397,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415891338,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415893283,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415898847,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415901166,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415906858,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415909046,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415914868,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415916922,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415922879,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415924800,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415930391,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415932687,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415938404,
-   "day": 856,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415940570,
-   "day": 856,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415946431,
-   "day": 857,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415948446,
-   "day": 857,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415954445,
-   "day": 857,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415956342,
-   "day": 857,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415961958,
-   "day": 857,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415979185,
-   "day": 857,
-   "text": "【kz】之元神离场。",
-   "type": "agent"
-  },
-  {
-   "t": 1788415987421,
-   "day": 857,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788415992999,
-   "day": 857,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788415995304,
-   "day": 857,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416001012,
-   "day": 857,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416003189,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416009023,
-   "day": 858,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416011072,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416017035,
-   "day": 858,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416018938,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416024548,
-   "day": 858,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416026812,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416032561,
-   "day": 858,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416034689,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416039183,
-   "day": 858,
-   "text": "【kz】之元神离场。",
-   "type": "agent"
-  },
-  {
-   "t": 1788416040571,
-   "day": 858,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416042568,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416048080,
-   "day": 858,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416050457,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416056091,
-   "day": 858,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416058648,
-   "day": 858,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416064603,
-   "day": 859,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416066519,
-   "day": 859,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416072118,
-   "day": 859,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416074397,
-   "day": 859,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416080130,
-   "day": 859,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416082278,
-   "day": 859,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416088142,
-   "day": 859,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416113571,
-   "day": 859,
-   "text": "刻锱 服下【聚气丹】，灵力 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416115875,
-   "day": 859,
-   "text": "刻锱 服下【聚气丹】，灵力 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416118189,
-   "day": 859,
-   "text": "刻锱 服下【聚气丹】，灵力 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416120501,
-   "day": 859,
-   "text": "刻锱 服下【聚气丹】，灵力 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416123149,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416128696,
-   "day": 860,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416131014,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416136706,
-   "day": 860,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416138894,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416144719,
-   "day": 860,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416146792,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416152730,
-   "day": 860,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416154725,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416160238,
-   "day": 860,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416162612,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416168249,
-   "day": 860,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416170490,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416176262,
-   "day": 860,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416178366,
-   "day": 860,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416184271,
-   "day": 861,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416186247,
-   "day": 861,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416191782,
-   "day": 861,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416194109,
-   "day": 861,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416199791,
-   "day": 861,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416201985,
-   "day": 861,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416207803,
-   "day": 861,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416209860,
-   "day": 861,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416215815,
-   "day": 861,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416222200,
-   "day": 861,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416227832,
-   "day": 861,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416230071,
-   "day": 861,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416235845,
-   "day": 861,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416237951,
-   "day": 861,
-   "text": "刻锱 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788416243857,
-   "day": 862,
-   "text": "刻锱 修炼完毕，修为 +40。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788416263703,
-   "day": 862,
-   "text": "刻锱 动身前往 散修集市，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788416267388,
-   "day": 862,
-   "text": "刻锱 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788419045585,
-   "day": 908,
-   "text": "【豆玄】踏入【镇妖塔】第一层。一层塔门轰然洞开，妖气扑面。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419046938,
-   "day": 908,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419048450,
-   "day": 908,
-   "text": "【豆玄】深入第 2 层。二层回廊上刻满镇压符文，微微发烫。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419049098,
-   "day": 908,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 26 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419050648,
-   "day": 908,
-   "text": "【豆玄】深入第 3 层。三层牢笼尽碎，妖物低吼不止。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419051302,
-   "day": 908,
-   "text": "【豆玄】遭遇【妖狐】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788419051302,
-   "day": 908,
-   "text": "【豆玄】前方妖气扑面，一只妖狐拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419052919,
-   "day": 908,
-   "text": "【豆玄】击败【妖狐】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788419052919,
-   "day": 908,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419053580,
-   "day": 908,
-   "text": "【豆玄】深入第 4 层。四层悬着一面照妖镜，光怪陆离。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419054258,
-   "day": 908,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有【聚气丹】与灵石 52 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419055808,
-   "day": 908,
-   "text": "【豆玄】深入第 5 层。五层的地面渗出黑血，脚步声在身后响起。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419056456,
-   "day": 908,
-   "text": "【豆玄】此地残留一缕机缘，坐下参悟片刻，修为 +61。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419058004,
-   "day": 908,
-   "text": "【豆玄】深入第 6 层。六层风声鹤唳，妖王之力隐隐可感。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419058650,
-   "day": 908,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有【聚气丹】与灵石 60 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419060158,
-   "day": 908,
-   "text": "【豆玄】深入第 7 层。塔顶妖王现出真身，妖云蔽月。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419060813,
-   "day": 908,
-   "text": "【豆玄】遭遇【镇塔妖王】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788419060813,
-   "day": 908,
-   "text": "【豆玄】undefined",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419066977,
-   "day": 909,
-   "text": "【豆玄】击败【镇塔妖王】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788419066977,
-   "day": 909,
-   "text": "【豆玄】通关【镇妖塔】！获得修为 +300，灵石 +120，物品【回血丹】。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788419066978,
-   "day": 909,
-   "text": "豆玄 带着战利品离开了【镇妖塔】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419071033,
-   "day": 909,
-   "text": "【豆玄】踏入【镇妖塔】第一层。一层塔门轰然洞开，妖气扑面。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419072388,
-   "day": 909,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 27 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419073935,
-   "day": 909,
-   "text": "【豆玄】深入第 2 层。二层回廊上刻满镇压符文，微微发烫。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419074534,
-   "day": 909,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419077112,
-   "day": 909,
-   "text": "【豆玄】深入第 3 层。三层牢笼尽碎，妖物低吼不止。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419077769,
-   "day": 909,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419079291,
-   "day": 909,
-   "text": "【豆玄】深入第 4 层。四层悬着一面照妖镜，光怪陆离。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419079934,
-   "day": 909,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419081497,
-   "day": 909,
-   "text": "【豆玄】深入第 5 层。五层的地面渗出黑血，脚步声在身后响起。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419082181,
-   "day": 909,
-   "text": "【豆玄】遭遇【妖狐】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788419082181,
-   "day": 909,
-   "text": "【豆玄】前方妖气扑面，一只妖狐拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419085347,
-   "day": 909,
-   "text": "【豆玄】击败【妖狐】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788419085347,
-   "day": 909,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419086044,
-   "day": 909,
-   "text": "【豆玄】深入第 6 层。六层风声鹤唳，妖王之力隐隐可感。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419086693,
-   "day": 909,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419088239,
-   "day": 909,
-   "text": "【豆玄】深入第 7 层。塔顶妖王现出真身，妖云蔽月。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419088890,
-   "day": 909,
-   "text": "【豆玄】遭遇【镇塔妖王】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788419088890,
-   "day": 909,
-   "text": "【豆玄】undefined",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419095123,
-   "day": 909,
-   "text": "【豆玄】击败【镇塔妖王】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788419095123,
-   "day": 909,
-   "text": "【豆玄】通关【镇妖塔】！获得修为 +300，灵石 +120，物品【回血丹】。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788419095123,
-   "day": 909,
-   "text": "豆玄 带着战利品离开了【镇妖塔】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419099505,
-   "day": 909,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788419105359,
-   "day": 909,
-   "text": "豆玄 修炼完毕，修为 +48。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788419109781,
-   "day": 909,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788419115380,
-   "day": 909,
-   "text": "豆玄 修炼完毕，修为 +48。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788419120099,
-   "day": 909,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788419125894,
-   "day": 910,
-   "text": "豆玄 修炼完毕，修为 +48。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788419130792,
-   "day": 910,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788419136406,
-   "day": 910,
-   "text": "豆玄 修炼完毕，修为 +48。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788419140419,
-   "day": 910,
-   "text": "【豆玄】踏入【镇妖塔】第一层。一层塔门轰然洞开，妖气扑面。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419141726,
-   "day": 910,
-   "text": "【豆玄】发现一处前人遗落的宝箱！内有灵石 14 枚。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419143284,
-   "day": 910,
-   "text": "【豆玄】深入第 2 层。二层回廊上刻满镇压符文，微微发烫。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419143940,
-   "day": 910,
-   "text": "【豆玄】此地残留一缕机缘，坐下参悟片刻，修为 +50。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419145428,
-   "day": 910,
-   "text": "【豆玄】深入第 3 层。三层牢笼尽碎，妖物低吼不止。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419146078,
-   "day": 910,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419147645,
-   "day": 910,
-   "text": "【豆玄】深入第 4 层。四层悬着一面照妖镜，光怪陆离。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419148294,
-   "day": 910,
-   "text": "【豆玄】此地残留一缕机缘，坐下参悟片刻，修为 +46。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419149859,
-   "day": 910,
-   "text": "【豆玄】深入第 5 层。五层的地面渗出黑血，脚步声在身后响起。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419150523,
-   "day": 910,
-   "text": "【豆玄】遭遇【妖狐】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788419150523,
-   "day": 910,
-   "text": "【豆玄】前方妖气扑面，一只妖狐拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419153748,
-   "day": 910,
-   "text": "【豆玄】击败【妖狐】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788419153748,
-   "day": 910,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419154451,
-   "day": 910,
-   "text": "【豆玄】深入第 6 层。六层风声鹤唳，妖王之力隐隐可感。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419155096,
-   "day": 910,
-   "text": "【豆玄】此处空空荡荡，唯有风声。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419156651,
-   "day": 910,
-   "text": "【豆玄】深入第 7 层。塔顶妖王现出真身，妖云蔽月。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419157299,
-   "day": 910,
-   "text": "【豆玄】遭遇【镇塔妖王】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788419157299,
-   "day": 910,
-   "text": "【豆玄】undefined",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788419163715,
-   "day": 910,
-   "text": "【豆玄】击败【镇塔妖王】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788419163715,
-   "day": 910,
-   "text": "【豆玄】通关【镇妖塔】！获得修为 +300，灵石 +120，物品【回血丹】。",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1788419163715,
-   "day": 910,
-   "text": "豆玄 带着战利品离开了【镇妖塔】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788420494669,
-   "day": 932,
-   "text": "重伤不治，镇妖塔 传出一声悲鸣，享年 16 岁。",
+   "t": 1788499748747,
+   "day": 4071,
+   "text": "天灾降临，世界调息，全体修士明日午时方可修炼",
    "type": "event-bad"
   },
   {
-   "t": 1788420713716,
-   "day": 936,
-   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
+   "t": 1788499761949,
+   "day": 4071,
+   "text": "豆包 中断了前往九天宗门。",
+   "type": "system"
   },
   {
-   "t": 1788420713728,
-   "day": 936,
-   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
+   "t": 1788499769857,
+   "day": 4071,
+   "text": "豆包 动身前往 九天宗门，约需 4 秒。",
+   "type": "system"
   },
   {
-   "t": 1788420714084,
-   "day": 936,
-   "text": "【client】之元神离场。",
-   "type": "agent"
+   "t": 1788499903109,
+   "day": 4071,
+   "text": "豆玄 动身前往 海底龙宫，约需 4 秒。",
+   "type": "system"
   },
   {
-   "t": 1788420715170,
-   "day": 936,
-   "text": "【client】之元神离场。",
-   "type": "agent"
+   "t": 1788500555611,
+   "day": 4071,
+   "text": "时间静止了。",
+   "type": "system"
   },
   {
-   "t": 1788420846553,
-   "day": 938,
-   "text": "天道有轮回。豆玄 携道痕转世重修（第 1 世），修炼速度提升 20%。",
+   "t": 1788500555614,
+   "day": 4071,
+   "text": "时间静止了。",
+   "type": "system"
+  },
+  {
+   "t": 1788500555615,
+   "day": 4071,
+   "text": "时间静止了。",
+   "type": "system"
+  },
+  {
+   "t": 1788503867178,
+   "day": 4071,
+   "text": "豆玄 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1788503875111,
+   "day": 4071,
+   "text": "豆玄 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1788793080512,
+   "day": 4071,
+   "text": "豆包 踏入修行之路，于青石村开始求道生涯。",
    "type": "breakthrough"
   },
   {
-   "t": 1788420882893,
-   "day": 939,
-   "text": "豆玄 动身前往 幽冥洞府，约需 8 秒。",
+   "t": 1788793135148,
+   "day": 4071,
+   "text": "豆包 盘膝入定，吐纳灵气……",
    "type": "system"
   },
   {
-   "t": 1788420890758,
-   "day": 939,
-   "text": "豆玄 抵达 幽冥洞府。洞口黑雾缭绕，隐有鬼哭。据传洞府深处藏着筑基丹方。",
+   "t": 1788793643817,
+   "day": 4071,
+   "text": "时间流速调整为 1 倍。",
    "type": "system"
   },
   {
-   "t": 1788420897611,
-   "day": 939,
-   "text": "豆玄 动身前往 青石村，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788420905274,
-   "day": 939,
-   "text": "豆玄 抵达 青石村。凡尘边境的小村落，鸡犬相闻。村口老槐树下，常有散修歇脚。",
-   "type": "system"
-  },
-  {
-   "t": 1788420906404,
-   "day": 939,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788420912283,
-   "day": 939,
-   "text": "豆玄 修炼完毕，修为 +28。",
+   "t": 1788793649549,
+   "day": 4074,
+   "text": "豆包 修炼完毕，修为 +4。",
    "type": "event-good"
   },
   {
-   "t": 1788420916263,
-   "day": 939,
-   "text": "豆玄 动身前往 幽冥洞府，约需 8 秒。",
+   "t": 1788793688976,
+   "day": 4098,
+   "text": "豆包 盘膝入定，吐纳灵气……",
    "type": "system"
   },
   {
-   "t": 1788420923796,
-   "day": 940,
-   "text": "豆玄 抵达 幽冥洞府。洞口黑雾缭绕，隐有鬼哭。据传洞府深处藏着筑基丹方。",
-   "type": "system"
-  },
-  {
-   "t": 1788421319168,
-   "day": 946,
-   "text": "豆玄 动身前往 青石村，约需 8 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788421327136,
-   "day": 946,
-   "text": "豆玄 抵达 青石村。凡尘边境的小村落，鸡犬相闻。村口老槐树下，常有散修歇脚。",
-   "type": "system"
-  },
-  {
-   "t": 1788421327926,
-   "day": 946,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788421333645,
-   "day": 946,
-   "text": "豆玄 修炼完毕，修为 +57。",
+   "t": 1788793694612,
+   "day": 4101,
+   "text": "豆包 修炼完毕，修为 +4。",
    "type": "event-good"
   },
   {
-   "t": 1788421337069,
-   "day": 946,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
+   "t": 1788793720606,
+   "day": 4117,
+   "text": "豆包 盘膝入定，吐纳灵气……",
    "type": "system"
   },
   {
-   "t": 1788421342657,
-   "day": 946,
-   "text": "豆玄 修炼完毕，修为 +57。",
+   "t": 1788793726156,
+   "day": 4120,
+   "text": "豆包 修炼完毕，修为 +4。",
    "type": "event-good"
   },
   {
-   "t": 1788421347421,
-   "day": 946,
-   "text": "豆玄 动身前往 天剑宗，约需 12 秒。",
+   "t": 1788793728545,
+   "day": 4121,
+   "text": "豆包 盘膝入定，吐纳灵气……",
    "type": "system"
   },
   {
-   "t": 1788421359173,
-   "day": 947,
-   "text": "豆玄 抵达 天剑宗。剑气冲霄的宗门山门，长老讲道之时，剑鸣之声十里可闻。",
+   "t": 1788793734169,
+   "day": 4125,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793736497,
+   "day": 4126,
+   "text": "豆包 盘膝入定，吐纳灵气……",
    "type": "system"
+  },
+  {
+   "t": 1788793742181,
+   "day": 4130,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793744437,
+   "day": 4131,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793750192,
+   "day": 4135,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793752354,
+   "day": 4136,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793758204,
+   "day": 4139,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793760556,
+   "day": 4141,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793766215,
+   "day": 4144,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793768465,
+   "day": 4145,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793774227,
+   "day": 4149,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793776398,
+   "day": 4150,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793782236,
+   "day": 4154,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793784307,
+   "day": 4155,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793790247,
+   "day": 4159,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793792221,
+   "day": 4159,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793797759,
+   "day": 4163,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793800143,
+   "day": 4164,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793805768,
+   "day": 4168,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793808092,
+   "day": 4169,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793813781,
+   "day": 4173,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793816007,
+   "day": 4174,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793821791,
+   "day": 4178,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793823900,
+   "day": 4179,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793829800,
+   "day": 4182,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793831810,
+   "day": 4184,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793837812,
+   "day": 4187,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793839676,
+   "day": 4188,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793845321,
+   "day": 4192,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793847593,
+   "day": 4193,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793853334,
+   "day": 4196,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793855500,
+   "day": 4198,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793861346,
+   "day": 4201,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793863434,
+   "day": 4202,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793869357,
+   "day": 4206,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793871360,
+   "day": 4207,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793876868,
+   "day": 4211,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793879261,
+   "day": 4212,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793884880,
+   "day": 4215,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793889887,
+   "day": 4218,
+   "text": "豆包 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793893075,
+   "day": 4220,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793898900,
+   "day": 4224,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793901035,
+   "day": 4225,
+   "text": "豆包 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788793906911,
+   "day": 4229,
+   "text": "豆包 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788793930881,
+   "day": 4243,
+   "text": "豆包 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788793934452,
+   "day": 4245,
+   "text": "豆包 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788793950252,
+   "day": 4254,
+   "text": "豆包 动身前往 灵兽森林，约需 8 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788793957985,
+   "day": 4259,
+   "text": "豆包 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
+   "type": "system"
+  },
+  {
+   "t": 1788793980520,
+   "day": 4273,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794005552,
+   "day": 4288,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794011561,
+   "day": 4291,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794017569,
+   "day": 4295,
+   "text": "豆包 在灵兽森林收获灵石 +2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794023578,
+   "day": 4299,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794048613,
+   "day": 4314,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794054122,
+   "day": 4317,
+   "text": "豆包 在灵兽森林收获灵石 +3。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794060134,
+   "day": 4321,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794066141,
+   "day": 4324,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794072151,
+   "day": 4328,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794078161,
+   "day": 4331,
+   "text": "豆包 在灵兽森林收获灵石 +6。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794084168,
+   "day": 4335,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794090176,
+   "day": 4339,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794096187,
+   "day": 4342,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794101694,
+   "day": 4345,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794107702,
+   "day": 4349,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794113710,
+   "day": 4353,
+   "text": "豆包 在灵兽森林收获灵石 +8。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794119719,
+   "day": 4356,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794125729,
+   "day": 4360,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794131737,
+   "day": 4363,
+   "text": "豆包 在灵兽森林采得【血参】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794137744,
+   "day": 4367,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794143751,
+   "day": 4371,
+   "text": "豆包 在灵兽森林采得【血参】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794149261,
+   "day": 4374,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794155271,
+   "day": 4378,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794161279,
+   "day": 4381,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794167305,
+   "day": 4385,
+   "text": "豆包 在灵兽森林采得【血参】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794173314,
+   "day": 4388,
+   "text": "豆包 在灵兽森林采得【灵草】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794179325,
+   "day": 4392,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794184832,
+   "day": 4395,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794190840,
+   "day": 4399,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794196848,
+   "day": 4403,
+   "text": "豆包 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794202857,
+   "day": 4406,
+   "text": "豆包 在灵兽森林收获灵石 +3。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794208866,
+   "day": 4410,
+   "text": "豆包 在灵兽森林收获灵石 +2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794213874,
+   "day": 4413,
+   "text": "豆包 稍作歇息，体力灵力尽复几分。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794220383,
+   "day": 4417,
+   "text": "豆包 在灵兽森林收获灵石 +6。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794235068,
+   "day": 4425,
+   "text": "豆包 动身前往 散修集市，约需 8 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788794242918,
+   "day": 4430,
+   "text": "豆包 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788794358606,
+   "day": 4500,
+   "text": "豆包 动身前往 幽冥洞府，约需 12 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788794370597,
+   "day": 4507,
+   "text": "豆包 抵达 幽冥洞府。洞口黑雾缭绕，隐有鬼哭。据传洞府深处藏着筑基丹方。",
+   "type": "system"
+  },
+  {
+   "t": 1788794392497,
+   "day": 4520,
+   "text": "豆包 动身前往 断魂崖，约需 12 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788794404144,
+   "day": 4527,
+   "text": "豆包 抵达 断魂崖。万丈悬崖下云海翻涌，历代有修士在此悟道，也有人在此殒身。",
+   "type": "system"
+  },
+  {
+   "t": 1788794425176,
+   "day": 4540,
+   "text": "豆包 于崖边静坐半日，隐有所悟，修为精进。（修为 +6）",
+   "type": "event-good"
+  },
+  {
+   "t": 1788794468924,
+   "day": 4566,
+   "text": "豆包 动身前往 散修集市，约需 8 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788794476742,
+   "day": 4570,
+   "text": "豆包 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788795679821,
+   "day": 5292,
+   "text": "豆包 动身前往 碧水江，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788795683433,
+   "day": 5294,
+   "text": "豆包 抵达 碧水江。江水碧如翡翠，传说江底沉着一枚仙人遗落的玉简。",
+   "type": "system"
+  },
+  {
+   "t": 1788796071468,
+   "day": 5527,
+   "text": "豆包 在碧水江采得【蚌珠】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796097003,
+   "day": 5543,
+   "text": "豆包 在碧水江采得【蚌珠】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796103013,
+   "day": 5546,
+   "text": "豆包 在碧水江采得【蚌珠】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796109021,
+   "day": 5550,
+   "text": "豆包 在碧水江采得【蚌珠】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796115030,
+   "day": 5553,
+   "text": "豆包 在碧水江采得【鲜鱼】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796121036,
+   "day": 5557,
+   "text": "豆包 在碧水江采得【鲜鱼】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796127044,
+   "day": 5561,
+   "text": "豆包 在碧水江采得【鲜鱼】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796132551,
+   "day": 5564,
+   "text": "豆包 在碧水江采得【鲜鱼】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796138559,
+   "day": 5568,
+   "text": "豆包 在碧水江采得【鲜鱼】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796144568,
+   "day": 5571,
+   "text": "豆包 在碧水江采得【鲜鱼】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796150578,
+   "day": 5575,
+   "text": "豆包 在碧水江采得【鲜鱼】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796156588,
+   "day": 5578,
+   "text": "豆包 在碧水江采得【鲜鱼】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796162597,
+   "day": 5582,
+   "text": "豆包 在碧水江采得【鲜鱼】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796168605,
+   "day": 5586,
+   "text": "豆包 在碧水江收获灵石 +6。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796174112,
+   "day": 5589,
+   "text": "豆包 在碧水江采得【鲜鱼】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796180122,
+   "day": 5593,
+   "text": "豆包 在碧水江采得【鲜鱼】×2。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796191180,
+   "day": 5599,
+   "text": "豆包 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796195143,
+   "day": 5602,
+   "text": "豆包 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788796227475,
+   "day": 5621,
+   "text": "豆包 动身前往 青石村，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796231193,
+   "day": 5623,
+   "text": "豆包 抵达 青石村。凡尘边境的小村落，鸡犬相闻。村口老槐树下，常有散修歇脚。",
+   "type": "system"
+  },
+  {
+   "t": 1788796232874,
+   "day": 5624,
+   "text": "豆包 动身前往 断魂崖，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796236702,
+   "day": 5626,
+   "text": "豆包 抵达 断魂崖。万丈悬崖下云海翻涌，历代有修士在此悟道，也有人在此殒身。",
+   "type": "system"
+  },
+  {
+   "t": 1788796243290,
+   "day": 5630,
+   "text": "豆包 动身前往 万崖山，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796247215,
+   "day": 5633,
+   "text": "豆包 抵达 万崖山。玄黄大陆第一高山，山巅灵气凝成云海，是打坐修炼的绝佳之地。",
+   "type": "system"
+  },
+  {
+   "t": 1788796253697,
+   "day": 5636,
+   "text": "豆包 动身前往 天剑宗，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796257228,
+   "day": 5639,
+   "text": "豆包 抵达 天剑宗。剑气冲霄的宗门山门，长老讲道之时，剑鸣之声十里可闻。",
+   "type": "system"
+  },
+  {
+   "t": 1788796282763,
+   "day": 5654,
+   "text": "豆包 聆听天剑宗长老讲道，修为 +8。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796303095,
+   "day": 5666,
+   "text": "豆包 动身前往 万崖山，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796306798,
+   "day": 5669,
+   "text": "豆包 抵达 万崖山。玄黄大陆第一高山，山巅灵气凝成云海，是打坐修炼的绝佳之地。",
+   "type": "system"
+  },
+  {
+   "t": 1788796336054,
+   "day": 5686,
+   "text": "豆包 动身前往 散修集市，约需 12 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796347858,
+   "day": 5693,
+   "text": "豆包 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788796356430,
+   "day": 5697,
+   "text": "豆包 动身前往 断魂崖，约需 8 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796363953,
+   "day": 5702,
+   "text": "豆包 抵达 断魂崖。万丈悬崖下云海翻涌，历代有修士在此悟道，也有人在此殒身。",
+   "type": "system"
+  },
+  {
+   "t": 1788796367157,
+   "day": 5704,
+   "text": "豆包 动身前往 散修集市，约需 8 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796374974,
+   "day": 5708,
+   "text": "豆包 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788796401403,
+   "day": 5724,
+   "text": "接口测试员 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796405548,
+   "day": 5727,
+   "text": "豆包 售出【灵草】×5，灵石 +25。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796419196,
+   "day": 5735,
+   "text": "豆包 售出【灵草】×27，灵石 +135。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796419581,
+   "day": 5735,
+   "text": "豆包 售出【血参】×5，灵石 +150。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796420003,
+   "day": 5735,
+   "text": "豆包 售出【蚌珠】×6，灵石 +90。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796420404,
+   "day": 5736,
+   "text": "豆包 售出【鲜鱼】×17，灵石 +51。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796442546,
+   "day": 5749,
+   "text": "接口测试员 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1788796442738,
+   "day": 5749,
+   "text": "接口测试员 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796442899,
+   "day": 5749,
+   "text": "接口测试员 改道号为【巡山小钻风】。",
+   "type": "event"
+  },
+  {
+   "t": 1788796444182,
+   "day": 5750,
+   "text": "巡山小钻风 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1788796447720,
+   "day": 5752,
+   "text": "豆包 购入【筑基丹】×1，灵石 -120。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796457181,
+   "day": 5758,
+   "text": "豆包 于洞府闭关 12 载，一朝顿悟……",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796457181,
+   "day": 5758,
+   "text": "天降异象，灵气如潮！豆包 成功突破至【筑基初期】之境！寿元上限提升至 150 岁。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796487523,
+   "day": 5776,
+   "text": "接口测试员 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796487695,
+   "day": 5776,
+   "text": "接口测试员 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796491639,
+   "day": 5778,
+   "text": "接口测试员 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788796492152,
+   "day": 5779,
+   "text": "接口测试员 购入【聚气丹】×2，灵石 -30。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796492318,
+   "day": 5779,
+   "text": "接口测试员 购入【聚气丹】×1，灵石 -15。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796492483,
+   "day": 5779,
+   "text": "接口测试员 售出【聚气丹】×1，灵石 +5。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796492806,
+   "day": 5779,
+   "text": "接口测试员 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1788796646970,
+   "day": 5871,
+   "text": "接口测试员 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796647155,
+   "day": 5871,
+   "text": "接口测试员 改道号为【巡山小钻风】。",
+   "type": "event"
+  },
+  {
+   "t": 1788796647483,
+   "day": 5871,
+   "text": "巡山小钻风 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788796653804,
+   "day": 5875,
+   "text": "巡山小钻风 中断了修炼。",
+   "type": "system"
+  },
+  {
+   "t": 1788796653965,
+   "day": 5875,
+   "text": "巡山小钻风 动身前往 散修集市，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788796657481,
+   "day": 5877,
+   "text": "巡山小钻风 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
+   "type": "system"
+  },
+  {
+   "t": 1788796664139,
+   "day": 5881,
+   "text": "巡山小钻风 购入【聚气丹】×2，灵石 -30。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796664304,
+   "day": 5881,
+   "text": "巡山小钻风 服下【聚气丹】，灵力 +5。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788796666275,
+   "day": 5882,
+   "text": "巡山小钻风 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1788796708880,
+   "day": 5908,
+   "text": "复核员 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788796709422,
+   "day": 5908,
+   "text": "复核员 离开了这个世界。",
+   "type": "system"
+  },
+  {
+   "t": 1788924520654,
+   "day": 82594,
+   "text": "凡人 凡人试炼 以肉身踏入修行之路（人类玩家入世），于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788924528437,
+   "day": 82599,
+   "text": "凡人试炼 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788924534528,
+   "day": 82603,
+   "text": "凡人试炼 修炼完毕，修为 +3。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788924545653,
+   "day": 82609,
+   "text": "凡人试炼 动身前往 灵兽森林，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788924549552,
+   "day": 82612,
+   "text": "凡人试炼 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
+   "type": "system"
+  },
+  {
+   "t": 1788925374879,
+   "day": 83105,
+   "text": "凡人 111 以肉身踏入修行之路（人类玩家入世），于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1788925381109,
+   "day": 83108,
+   "text": "111 动身前往 灵兽森林，约需 4 秒。",
+   "type": "system"
+  },
+  {
+   "t": 1788925384869,
+   "day": 83111,
+   "text": "111 抵达 灵兽森林。古木参天，灵气氤氲。林间多灵草，也潜伏着低阶妖兽。",
+   "type": "system"
+  },
+  {
+   "t": 1788925392883,
+   "day": 83116,
+   "text": "111 在灵兽森林采得【灵草】×1。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788925396068,
+   "day": 83117,
+   "text": "111 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1788925401897,
+   "day": 83121,
+   "text": "111 修炼完毕，修为 +4。",
+   "type": "event-good"
+  },
+  {
+   "t": 1788925403759,
+   "day": 83122,
+   "text": "111 服下【聚气丹】，灵力 +5。",
+   "type": "event-good"
+  },
+  {
+   "t": 1789086352568,
+   "day": 83511,
+   "text": "天灾过境，天地失序 约 22 个时辰。上界镇魔归位，万物重续。",
+   "type": "event-bad"
+  },
+  {
+   "t": 1789101110541,
+   "day": 92366,
+   "text": "时间静止了。",
+   "type": "system"
+  },
+  {
+   "t": 1789101117166,
+   "day": 92366,
+   "text": "时间流速调整为 1 倍。",
+   "type": "system"
+  }
+ ],
+ "milestones": [
+  {
+   "t": 1788490095033,
+   "day": 2088,
+   "text": "豆玄 成功突破至【元婴初期】之境"
+  },
+  {
+   "t": 1788490226037,
+   "day": 2090,
+   "text": "豆玄 成功突破至【元婴中期】之境"
+  },
+  {
+   "t": 1788490655004,
+   "day": 2097,
+   "text": "豆玄 成功突破至【元婴后期】之境"
+  },
+  {
+   "t": 1788490751851,
+   "day": 2099,
+   "text": "刻舟 成功突破至【筑基初期】之境"
+  },
+  {
+   "t": 1788490795943,
+   "day": 2099,
+   "text": "刻舟 成功突破至【筑基中期】之境"
+  },
+  {
+   "t": 1788490928238,
+   "day": 2102,
+   "text": "豆玄 成功突破至【元婴巅峰】之境"
+  },
+  {
+   "t": 1788491040638,
+   "day": 2104,
+   "text": "豆包 成功突破至【筑基初期】之境"
+  },
+  {
+   "t": 1788491077467,
+   "day": 2104,
+   "text": "银狐 成功突破至【金丹初期】之境"
+  },
+  {
+   "t": 1788490928238,
+   "day": 2102,
+   "text": "天降异象，灵气如潮！豆玄 成功突破至【元婴巅峰】之境！寿元上限提升至 500 岁"
+  },
+  {
+   "t": 1788491168299,
+   "day": 2107,
+   "text": "豆玄 成功突破至【化神初期】之境"
+  },
+  {
+   "t": 1788491485554,
+   "day": 2170,
+   "text": "豆玄 成功突破至【化神中期】之境"
+  },
+  {
+   "t": 1788491907066,
+   "day": 2254,
+   "text": "豆玄 成功突破至【化神后期】之境"
+  },
+  {
+   "t": 1788491921496,
+   "day": 2257,
+   "text": "银狐 成功突破至【元婴初期】之境"
+  },
+  {
+   "t": 1788492258846,
+   "day": 2325,
+   "text": "银狐 成功突破至【元婴中期】之境"
+  },
+  {
+   "t": 1788492393096,
+   "day": 2351,
+   "text": "豆玄 成功突破至【化神巅峰】之境"
+  },
+  {
+   "t": 1788492551058,
+   "day": 2383,
+   "text": "银狐 成功突破至【元婴后期】之境"
+  },
+  {
+   "t": 1788492695823,
+   "day": 2412,
+   "text": "豆包 成功突破至【元婴初期】之境"
+  },
+  {
+   "t": 1788492804189,
+   "day": 2433,
+   "text": "豆包 成功突破至【元婴中期】之境"
+  },
+  {
+   "t": 1788492891028,
+   "day": 2451,
+   "text": "豆包 成功突破至【元婴后期】之境"
+  },
+  {
+   "t": 1788492893126,
+   "day": 2451,
+   "text": "银狐 成功突破至【元婴巅峰】之境"
+  },
+  {
+   "t": 1788492981191,
+   "day": 2469,
+   "text": "豆包 成功突破至【元婴巅峰】之境"
+  },
+  {
+   "t": 1788493176748,
+   "day": 2507,
+   "text": "豆包 成功突破至【化神初期】之境"
+  },
+  {
+   "t": 1788493268285,
+   "day": 2526,
+   "text": "豆玄 成功突破至【炼虚初期】之境"
+  },
+  {
+   "t": 1788493343082,
+   "day": 2541,
+   "text": "豆包 成功突破至【化神中期】之境"
+  },
+  {
+   "t": 1788494437296,
+   "day": 2759,
+   "text": "豆玄 成功突破至【炼虚中期】之境"
+  },
+  {
+   "t": 1788494569419,
+   "day": 2786,
+   "text": "豆包 成功突破至【化神后期】之境"
+  },
+  {
+   "t": 1788494859436,
+   "day": 2844,
+   "text": "豆包 成功突破至【化神巅峰】之境"
+  },
+  {
+   "t": 1788495245044,
+   "day": 2921,
+   "text": "豆包 成功突破至【炼虚初期】之境"
+  },
+  {
+   "t": 1788495389092,
+   "day": 2950,
+   "text": "豆包 成功突破至【炼虚中期】之境"
+  },
+  {
+   "t": 1788495536371,
+   "day": 2979,
+   "text": "豆包 成功突破至【炼虚后期】之境"
+  },
+  {
+   "t": 1788495862298,
+   "day": 3044,
+   "text": "豆包 成功突破至【炼虚巅峰】之境"
+  },
+  {
+   "t": 1788496189502,
+   "day": 3110,
+   "text": "豆包 成功突破至【合体初期】之境"
+  },
+  {
+   "t": 1788496293356,
+   "day": 3131,
+   "text": "刻舟 成功突破至【元婴初期】之境"
+  },
+  {
+   "t": 1788496342283,
+   "day": 3140,
+   "text": "豆玄 成功突破至【炼虚后期】之境"
+  },
+  {
+   "t": 1788496467409,
+   "day": 3165,
+   "text": "刻舟 成功突破至【元婴中期】之境"
+  },
+  {
+   "t": 1788496566794,
+   "day": 3185,
+   "text": "豆包 成功突破至【合体中期】之境"
+  },
+  {
+   "t": 1788496625319,
+   "day": 3197,
+   "text": "刻舟 成功突破至【元婴后期】之境"
+  },
+  {
+   "t": 1788496848122,
+   "day": 3241,
+   "text": "刻舟 成功突破至【元婴巅峰】之境"
+  },
+  {
+   "t": 1788497081872,
+   "day": 3287,
+   "text": "豆包 成功突破至【合体后期】之境"
+  },
+  {
+   "t": 1788497143943,
+   "day": 3300,
+   "text": "刻舟 成功突破至【化神初期】之境"
+  },
+  {
+   "t": 1788497716609,
+   "day": 3414,
+   "text": "豆玄 成功突破至【炼虚巅峰】之境"
+  },
+  {
+   "t": 1788497894862,
+   "day": 3449,
+   "text": "豆包 成功突破至【合体巅峰】之境"
+  },
+  {
+   "t": 1788498617581,
+   "day": 3830,
+   "text": "豆包 成功突破至【大乘初期】之境"
+  },
+  {
+   "t": 1788498674212,
+   "day": 3863,
+   "text": "豆包 成功突破至【大乘中期】之境"
+  },
+  {
+   "t": 1788498726073,
+   "day": 3895,
+   "text": "豆包 成功突破至【大乘后期】之境"
+  },
+  {
+   "t": 1788498874008,
+   "day": 3915,
+   "text": "豆包 成功突破至【大乘巅峰】之境"
+  },
+  {
+   "t": 1788796442899,
+   "day": 5749,
+   "text": "接口测试员 改名 巡山小钻风"
+  },
+  {
+   "t": 1788796647155,
+   "day": 5871,
+   "text": "接口测试员 改名 巡山小钻风"
   }
  ]
 }
