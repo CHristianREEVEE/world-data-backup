@@ -62,7 +62,10 @@
    "createdAt": 1788490993400,
    "lastSeen": 1788492267706,
    "bornDay": 212.49668333332372,
-   "bornAge": 19
+   "bornAge": 19,
+   "token": "a2ether-001.muii6oib.980d7d0e7775fa1c",
+   "accountId": "acc_0ed41a03-ae5c-4d31-b706-546c19fa9bdc",
+   "worldId": "western"
   },
   "doubao-west-001": {
    "id": "doubao-west-001",
@@ -104,13 +107,17 @@
    "connectedAt": null,
    "color": "#8fd6b4",
    "clientLabel": "Web",
-   "createdAt": 1788793360645
+   "createdAt": 1788793360645,
+   "token": "doubao-west-001.muii6oic.9c57b24cf74225a8",
+   "accountId": "acc_538eb5c6-eefe-48f8-a116-56258fa49d0c",
+   "worldId": "western"
   }
  },
  "world": {
   "gameDay": 1252.3770833333317,
   "speed": 0,
-  "paused": true
+  "paused": true,
+  "weather": "sunny"
  },
  "logs": [
   {
@@ -786,5 +793,285 @@
    "day": 1252,
    "text": "西境测试员 改名 奥术测试师"
   }
- ]
+ ],
+ "farms": {
+  "a2ether-001": {
+   "stage": "cleared",
+   "level": 1,
+   "clearedAt": 0,
+   "crop": null,
+   "plantedAt": 0,
+   "periodDays": 0,
+   "progress": 0,
+   "ready": false,
+   "watered": false,
+   "wateredAt": 0,
+   "rainBoost": 0,
+   "lastEventDay": -1,
+   "beastActive": false,
+   "events": [],
+   "harvestCount": 0,
+   "ledger": [],
+   "plantedCrops": {},
+   "achievements": {},
+   "totalRevenue": 0,
+   "consecutiveHarvests": 0,
+   "quests": {},
+   "questCodexPoints": 0,
+   "lastQuestReset": {
+    "day": 0,
+    "week": 0
+   },
+   "rental": null,
+   "guardUntil": 0,
+   "lastReportDay": -1,
+   "inheritFrom": null,
+   "fertility": 50,
+   "fertilizerBonus": false,
+   "lastFertChecked": -1,
+   "fieldLevel": 1,
+   "upgrading": null,
+   "isLeyLine": false,
+   "leyLineId": null
+  },
+  "doubao-west-001": {
+   "stage": "cleared",
+   "level": 1,
+   "clearedAt": 0,
+   "crop": null,
+   "plantedAt": 0,
+   "periodDays": 0,
+   "progress": 0,
+   "ready": false,
+   "watered": false,
+   "wateredAt": 0,
+   "rainBoost": 0,
+   "lastEventDay": -1,
+   "beastActive": false,
+   "events": [],
+   "harvestCount": 0,
+   "ledger": [],
+   "plantedCrops": {},
+   "achievements": {},
+   "totalRevenue": 0,
+   "consecutiveHarvests": 0,
+   "quests": {},
+   "questCodexPoints": 0,
+   "lastQuestReset": {
+    "day": 0,
+    "week": 0
+   },
+   "rental": null,
+   "guardUntil": 0,
+   "lastReportDay": -1,
+   "inheritFrom": null,
+   "fertility": 50,
+   "fertilizerBonus": false,
+   "lastFertChecked": -1,
+   "fieldLevel": 1,
+   "upgrading": null,
+   "isLeyLine": false,
+   "leyLineId": null
+  }
+ },
+ "market": {
+  "day": -1,
+  "items": {
+   "桑麻": {
+    "baseSell": 2,
+    "currentPrice": 2,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "灵草": {
+    "baseSell": 4,
+    "currentPrice": 4,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "青禾": {
+    "baseSell": 5,
+    "currentPrice": 5,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "血参": {
+    "baseSell": 20,
+    "currentPrice": 20,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "灵稻": {
+    "baseSell": 16,
+    "currentPrice": 16,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "九叶兰": {
+    "baseSell": 30,
+    "currentPrice": 30,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "朱果": {
+    "baseSell": 50,
+    "currentPrice": 50,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "仙桃": {
+    "baseSell": 90,
+    "currentPrice": 90,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   },
+   "瑶池莲": {
+    "baseSell": 150,
+    "currentPrice": 150,
+    "soldToday": 0,
+    "lastChangeDay": 0
+   }
+  },
+  "totalRevenue": 0,
+  "totalSold": 0
+ },
+ "codex": {
+  "achievements": {},
+  "codex": {
+   "桑麻": {
+    "name": "桑麻",
+    "tier": 0,
+    "tierCN": "凡品",
+    "season": "秋",
+    "periodDays": 2,
+    "sell": 2,
+    "desc": "坚韧桑麻，2 日即成，凡人快采快收",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "灵草": {
+    "name": "灵草",
+    "tier": 0,
+    "tierCN": "凡品",
+    "season": "春",
+    "periodDays": 3,
+    "sell": 4,
+    "desc": "常见灵草，3 日成熟，稳赚不赔",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "青禾": {
+    "name": "青禾",
+    "tier": 0,
+    "tierCN": "凡品",
+    "season": "夏",
+    "periodDays": 4,
+    "sell": 5,
+    "desc": "夏熟青禾，4 日成熟，凡品中收益最高",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "血参": {
+    "name": "血参",
+    "tier": 1,
+    "tierCN": "灵品",
+    "season": "春",
+    "periodDays": 7,
+    "sell": 20,
+    "desc": "百年血参，7 日成熟，药力惊人",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "灵稻": {
+    "name": "灵稻",
+    "tier": 1,
+    "tierCN": "灵品",
+    "season": "夏",
+    "periodDays": 9,
+    "sell": 16,
+    "desc": "灵气所育之稻，9 日成熟，米香十里",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "九叶兰": {
+    "name": "九叶兰",
+    "tier": 1,
+    "tierCN": "灵品",
+    "season": "秋",
+    "periodDays": 11,
+    "sell": 30,
+    "desc": "九叶灵兰，11 日成熟，兰中上品",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "朱果": {
+    "name": "朱果",
+    "tier": 2,
+    "tierCN": "仙品",
+    "season": "春",
+    "periodDays": 14,
+    "sell": 50,
+    "desc": "火灵朱果，14 日成熟，果中极品",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "仙桃": {
+    "name": "仙桃",
+    "tier": 2,
+    "tierCN": "仙品",
+    "season": "夏",
+    "periodDays": 20,
+    "sell": 90,
+    "desc": "西王母亲手植桃，20 日成熟，延年益寿",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   },
+   "瑶池莲": {
+    "name": "瑶池莲",
+    "tier": 2,
+    "tierCN": "仙品",
+    "season": "秋",
+    "periodDays": 28,
+    "sell": 150,
+    "desc": "瑶池中金莲，28 日一熟，仙品之冠",
+    "unlocked": false,
+    "totalHarvested": 0,
+    "totalSold": 0,
+    "totalRevenue": 0
+   }
+  }
+ },
+ "leaderboard": {
+  "week": 0,
+  "weeks": {},
+  "production": {},
+  "profit": {},
+  "weekEnds": {}
+ },
+ "audit": {
+  "entries": [],
+  "nextId": 1
+ },
+ "worldEvents": {
+  "current": null,
+  "history": [],
+  "calendar": []
+ },
+ "schemaVersion": 4
 }
