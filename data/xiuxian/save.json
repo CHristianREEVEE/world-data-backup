@@ -57,7 +57,7 @@
    "token": "kezhou-001.muii6oii.2e04c1fedfbe273d",
    "accountId": "acc_0ff7f937-70ac-495a-a67c-b4dbb3945823",
    "worldId": "xiuxian",
-   "idleMs": 22742
+   "idleMs": 20816
   },
   "kely-001": {
    "id": "kely-001",
@@ -112,7 +112,7 @@
    "token": "kely-001.muii6oij.9619544d1d84bd78",
    "accountId": "acc_b08a2c5f-b9bf-4597-9c41-da3a1fdbc57d",
    "worldId": "xiuxian",
-   "idleMs": 22742
+   "idleMs": 20816
   },
   "kezi-sword-001": {
    "id": "kezi-sword-001",
@@ -162,14 +162,14 @@
    "token": "kezi-sword-001.muii6oij.569dd94c4c5f4f82",
    "accountId": "acc_5ad08275-7ce6-4aa3-a7d2-3ed41badec05",
    "worldId": "xiuxian",
-   "idleMs": 22742
+   "idleMs": 20816
   },
   "doubao-xian-002": {
    "id": "doubao-xian-002",
    "name": "豆玄",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 138461,
+   "cultivation": 147101,
    "hp": 659,
    "maxHp": 816,
    "spirit": 720,
@@ -746,14 +746,14 @@
    "token": "doubao-xian-002.muii6oij.cd1f2c5740f55e13",
    "accountId": "acc_cb587c3f-ae6c-4b69-95d8-48e5e98cff15",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   },
   "yinhu-001": {
    "id": "yinhu-001",
    "name": "银狐",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 52389,
+   "cultivation": 62109,
    "hp": 536,
    "maxHp": 536,
    "spirit": 485,
@@ -821,14 +821,14 @@
    "token": "yinhu-001.muii6oij.355a99f7ac0f59f3",
    "accountId": "acc_6d0a8113-779d-4f7b-91d9-3e6d73da0836",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   },
   "kezi-sword-002": {
    "id": "kezi-sword-002",
    "name": "刻锱",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 54389,
+   "cultivation": 64109,
    "hp": 412,
    "maxHp": 412,
    "spirit": 370,
@@ -901,14 +901,14 @@
    "token": "kezi-sword-002.muii6oij.fbe6f776eeb711bd",
    "accountId": "acc_7bb156a6-6d0b-49d1-9205-2d616674627c",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   },
   "kezhou-002": {
    "id": "kezhou-002",
    "name": "刻舟",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 52389,
+   "cultivation": 62109,
    "hp": 571,
    "maxHp": 571,
    "spirit": 515,
@@ -1072,7 +1072,7 @@
    "token": "kezhou-002.muii6oij.5ecf37a264c7146d",
    "accountId": "acc_1b418107-64dc-49e4-87f6-880dac6fdc3c",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   },
   "doubao-001": {
    "id": "doubao-001",
@@ -1148,7 +1148,7 @@
    "token": "doubao-001.muii6oij.aeb6002972da3f39",
    "accountId": "acc_084108c0-4fc5-4959-b54b-06e63d94e265",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   },
   "doubao-jian-001": {
    "id": "doubao-jian-001",
@@ -1196,7 +1196,7 @@
    "token": "doubao-jian-001.muii6oij.20a7156662ea1296",
    "accountId": "acc_bb7e5799-f71b-485d-a359-f508feecfc6d",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   },
   "24ccb05c-6258-4985-9c6d-11ebb62ea752": {
    "id": "24ccb05c-6258-4985-9c6d-11ebb62ea752",
@@ -1244,7 +1244,7 @@
    "token": "24ccb05c-6258-4985-9c6d-11ebb62ea752.muii6oij.1459c16c45f45f59",
    "accountId": "acc_58d5fce7-48a1-4c6f-80f0-83a71069363b",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   },
   "6360db9f-76e9-407b-96a2-cd7e0f2b35bd": {
    "id": "6360db9f-76e9-407b-96a2-cd7e0f2b35bd",
@@ -1297,118 +1297,16 @@
    "token": "6360db9f-76e9-407b-96a2-cd7e0f2b35bd.muii6oij.7ab8f88a1fb68d56",
    "accountId": "acc_dc4141c5-1db4-48a3-b3ec-d932a25f3281",
    "worldId": "xiuxian",
-   "idleMs": 30562
+   "idleMs": 28636
   }
  },
  "world": {
-  "gameDay": 899824.2555693957,
+  "gameDay": 901264.2234694808,
   "speed": 1,
   "paused": false,
   "weather": "sunny"
  },
  "logs": [
-  {
-   "t": 1788499372242,
-   "day": 3924,
-   "text": "豆玄 带着战利品离开了【蓬莱仙岛】。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788499378686,
-   "day": 3928,
-   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788499383198,
-   "day": 3931,
-   "text": "豆玄 稍作歇息，体力灵力尽复几分。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788499386077,
-   "day": 3932,
-   "text": "豆玄 动身前往 上古秘境，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788499389707,
-   "day": 3934,
-   "text": "豆玄 抵达 上古秘境。海雾深处的孤岛秘境，结界斑驳，似有上古遗宝。",
-   "type": "system"
-  },
-  {
-   "t": 1788499390727,
-   "day": 3935,
-   "text": "豆玄 动身前往 海底龙宫，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788499394713,
-   "day": 3937,
-   "text": "豆玄 抵达 海底龙宫。海面之下珊瑚宫阙辉煌，虾兵蟹将往来巡守。",
-   "type": "system"
-  },
-  {
-   "t": 1788499396274,
-   "day": 3938,
-   "text": "豆玄 动身前往 海滩，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788499400220,
-   "day": 3941,
-   "text": "豆玄 抵达 海滩。细软沙滩上散落着贝壳与灵石，潮起潮落间或有海货。",
-   "type": "system"
-  },
-  {
-   "t": 1788499401042,
-   "day": 3941,
-   "text": "豆玄 动身前往 散修集市，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788499404726,
-   "day": 3943,
-   "text": "豆玄 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788499405860,
-   "day": 3944,
-   "text": "豆玄 动身前往 青石村，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788499409739,
-   "day": 3946,
-   "text": "豆玄 抵达 青石村。凡尘边境的小村落，鸡犬相闻。村口老槐树下，常有散修歇脚。",
-   "type": "system"
-  },
-  {
-   "t": 1788499410175,
-   "day": 3946,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788499415749,
-   "day": 3950,
-   "text": "豆玄 修炼完毕，修为 +3520。",
-   "type": "event-good"
-  },
-  {
-   "t": 1788499418568,
-   "day": 3952,
-   "text": "豆玄 盘膝入定，吐纳灵气……",
-   "type": "system"
-  },
-  {
-   "t": 1788499424262,
-   "day": 3955,
-   "text": "豆玄 修炼完毕，修为 +3520。",
-   "type": "event-good"
-  },
   {
    "t": 1788499428082,
    "day": 3957,
@@ -3705,6 +3603,108 @@
    "t": 1790894894289,
    "day": 899742,
    "text": "【internet-census-mcp-scanner】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1790914018032,
+   "day": 900061,
+   "text": "【Web】账号等级提升至 5 级！（来源：刻舟 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914018032,
+   "day": 900061,
+   "text": "【Web】账号等级提升至 5 级！（来源：刻莱 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914018034,
+   "day": 900061,
+   "text": "【Web】账号等级提升至 5 级！（来源：刻锱 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090132,
+   "day": 900062,
+   "text": "【Web】账号等级提升至 5 级！（来源：豆玄 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090137,
+   "day": 900062,
+   "text": "【Web】账号等级提升至 5 级！（来源：银狐 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090138,
+   "day": 900062,
+   "text": "【Web】账号等级提升至 5 级！（来源：刻锱 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090140,
+   "day": 900062,
+   "text": "【Web】账号等级提升至 5 级！（来源：刻舟 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090141,
+   "day": 900062,
+   "text": "【Web】账号等级提升至 5 级！（来源：豆包 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090143,
+   "day": 900062,
+   "text": "【Web】账号等级提升至 5 级！（来源：豆包 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090143,
+   "day": 900062,
+   "text": "【玩家】账号等级提升至 5 级！（来源：凡人试炼 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790914090147,
+   "day": 900062,
+   "text": "【玩家】账号等级提升至 5 级！（来源：111 cultivate）",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1790918207660,
+   "day": 900131,
+   "text": "一位【census】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1790918834476,
+   "day": 900141,
+   "text": "【census】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1790955677514,
+   "day": 900755,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1790955677524,
+   "day": 900755,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1790955678631,
+   "day": 900755,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1790956334784,
+   "day": 900766,
+   "text": "【client】之元神离场。",
    "type": "agent"
   }
  ],
