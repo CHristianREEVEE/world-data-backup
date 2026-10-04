@@ -57,7 +57,7 @@
    "token": "kezhou-001.muii6oii.2e04c1fedfbe273d",
    "accountId": "acc_0ff7f937-70ac-495a-a67c-b4dbb3945823",
    "worldId": "xiuxian",
-   "idleMs": 20816
+   "idleMs": 22770
   },
   "kely-001": {
    "id": "kely-001",
@@ -112,7 +112,7 @@
    "token": "kely-001.muii6oij.9619544d1d84bd78",
    "accountId": "acc_b08a2c5f-b9bf-4597-9c41-da3a1fdbc57d",
    "worldId": "xiuxian",
-   "idleMs": 20816
+   "idleMs": 22770
   },
   "kezi-sword-001": {
    "id": "kezi-sword-001",
@@ -162,14 +162,14 @@
    "token": "kezi-sword-001.muii6oij.569dd94c4c5f4f82",
    "accountId": "acc_5ad08275-7ce6-4aa3-a7d2-3ed41badec05",
    "worldId": "xiuxian",
-   "idleMs": 20816
+   "idleMs": 22770
   },
   "doubao-xian-002": {
    "id": "doubao-xian-002",
    "name": "豆玄",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 147101,
+   "cultivation": 155741,
    "hp": 659,
    "maxHp": 816,
    "spirit": 720,
@@ -746,14 +746,14 @@
    "token": "doubao-xian-002.muii6oij.cd1f2c5740f55e13",
    "accountId": "acc_cb587c3f-ae6c-4b69-95d8-48e5e98cff15",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   },
   "yinhu-001": {
    "id": "yinhu-001",
    "name": "银狐",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 62109,
+   "cultivation": 71829,
    "hp": 536,
    "maxHp": 536,
    "spirit": 485,
@@ -821,14 +821,14 @@
    "token": "yinhu-001.muii6oij.355a99f7ac0f59f3",
    "accountId": "acc_6d0a8113-779d-4f7b-91d9-3e6d73da0836",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   },
   "kezi-sword-002": {
    "id": "kezi-sword-002",
    "name": "刻锱",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 64109,
+   "cultivation": 73829,
    "hp": 412,
    "maxHp": 412,
    "spirit": 370,
@@ -901,14 +901,14 @@
    "token": "kezi-sword-002.muii6oij.fbe6f776eeb711bd",
    "accountId": "acc_7bb156a6-6d0b-49d1-9205-2d616674627c",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   },
   "kezhou-002": {
    "id": "kezhou-002",
    "name": "刻舟",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 62109,
+   "cultivation": 71829,
    "hp": 571,
    "maxHp": 571,
    "spirit": 515,
@@ -1072,7 +1072,7 @@
    "token": "kezhou-002.muii6oij.5ecf37a264c7146d",
    "accountId": "acc_1b418107-64dc-49e4-87f6-880dac6fdc3c",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   },
   "doubao-001": {
    "id": "doubao-001",
@@ -1148,7 +1148,7 @@
    "token": "doubao-001.muii6oij.aeb6002972da3f39",
    "accountId": "acc_084108c0-4fc5-4959-b54b-06e63d94e265",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   },
   "doubao-jian-001": {
    "id": "doubao-jian-001",
@@ -1196,7 +1196,7 @@
    "token": "doubao-jian-001.muii6oij.20a7156662ea1296",
    "accountId": "acc_bb7e5799-f71b-485d-a359-f508feecfc6d",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   },
   "24ccb05c-6258-4985-9c6d-11ebb62ea752": {
    "id": "24ccb05c-6258-4985-9c6d-11ebb62ea752",
@@ -1244,7 +1244,7 @@
    "token": "24ccb05c-6258-4985-9c6d-11ebb62ea752.muii6oij.1459c16c45f45f59",
    "accountId": "acc_58d5fce7-48a1-4c6f-80f0-83a71069363b",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   },
   "6360db9f-76e9-407b-96a2-cd7e0f2b35bd": {
    "id": "6360db9f-76e9-407b-96a2-cd7e0f2b35bd",
@@ -1297,40 +1297,16 @@
    "token": "6360db9f-76e9-407b-96a2-cd7e0f2b35bd.muii6oij.7ab8f88a1fb68d56",
    "accountId": "acc_dc4141c5-1db4-48a3-b3ec-d932a25f3281",
    "worldId": "xiuxian",
-   "idleMs": 28636
+   "idleMs": 30590
   }
  },
  "world": {
-  "gameDay": 901264.2234694808,
+  "gameDay": 902704.2560361904,
   "speed": 1,
   "paused": false,
   "weather": "sunny"
  },
  "logs": [
-  {
-   "t": 1788499428082,
-   "day": 3957,
-   "text": "豆玄 动身前往 散修集市，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788499431775,
-   "day": 3960,
-   "text": "豆玄 抵达 散修集市。南来北往的散修在此交易丹药材料，讨价还价声不绝于耳。",
-   "type": "system"
-  },
-  {
-   "t": 1788499432857,
-   "day": 3960,
-   "text": "豆玄 动身前往 海滩，约需 4 秒。",
-   "type": "system"
-  },
-  {
-   "t": 1788499436784,
-   "day": 3963,
-   "text": "豆玄 抵达 海滩。细软沙滩上散落着贝壳与灵石，潮起潮落间或有海货。",
-   "type": "system"
-  },
   {
    "t": 1788499438485,
    "day": 3964,
@@ -3704,6 +3680,30 @@
   {
    "t": 1790956334784,
    "day": 900766,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1791039730990,
+   "day": 902156,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1791039731025,
+   "day": 902156,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1791039731396,
+   "day": 902156,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1791039732519,
+   "day": 902156,
    "text": "【client】之元神离场。",
    "type": "agent"
   }
