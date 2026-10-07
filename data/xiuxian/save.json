@@ -57,7 +57,7 @@
    "token": "kezhou-001.muii6oii.2e04c1fedfbe273d",
    "accountId": "acc_0ff7f937-70ac-495a-a67c-b4dbb3945823",
    "worldId": "xiuxian",
-   "idleMs": 36602
+   "idleMs": 35778
   },
   "kely-001": {
    "id": "kely-001",
@@ -112,7 +112,7 @@
    "token": "kely-001.muii6oij.9619544d1d84bd78",
    "accountId": "acc_b08a2c5f-b9bf-4597-9c41-da3a1fdbc57d",
    "worldId": "xiuxian",
-   "idleMs": 36602
+   "idleMs": 35778
   },
   "kezi-sword-001": {
    "id": "kezi-sword-001",
@@ -162,14 +162,14 @@
    "token": "kezi-sword-001.muii6oij.569dd94c4c5f4f82",
    "accountId": "acc_5ad08275-7ce6-4aa3-a7d2-3ed41badec05",
    "worldId": "xiuxian",
-   "idleMs": 36602
+   "idleMs": 35778
   },
   "doubao-xian-002": {
    "id": "doubao-xian-002",
    "name": "豆玄",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 172949,
+   "cultivation": 181589,
    "hp": 659,
    "maxHp": 816,
    "spirit": 720,
@@ -746,14 +746,14 @@
    "token": "doubao-xian-002.muii6oij.cd1f2c5740f55e13",
    "accountId": "acc_cb587c3f-ae6c-4b69-95d8-48e5e98cff15",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   },
   "yinhu-001": {
    "id": "yinhu-001",
    "name": "银狐",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 91188,
+   "cultivation": 100908,
    "hp": 536,
    "maxHp": 536,
    "spirit": 485,
@@ -821,14 +821,14 @@
    "token": "yinhu-001.muii6oij.355a99f7ac0f59f3",
    "accountId": "acc_6d0a8113-779d-4f7b-91d9-3e6d73da0836",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   },
   "kezi-sword-002": {
    "id": "kezi-sword-002",
    "name": "刻锱",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 93188,
+   "cultivation": 102908,
    "hp": 412,
    "maxHp": 412,
    "spirit": 370,
@@ -901,14 +901,14 @@
    "token": "kezi-sword-002.muii6oij.fbe6f776eeb711bd",
    "accountId": "acc_7bb156a6-6d0b-49d1-9205-2d616674627c",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   },
   "kezhou-002": {
    "id": "kezhou-002",
    "name": "刻舟",
    "path": "sword",
    "realmIdx": 7,
-   "cultivation": 91188,
+   "cultivation": 100908,
    "hp": 571,
    "maxHp": 571,
    "spirit": 515,
@@ -1072,7 +1072,7 @@
    "token": "kezhou-002.muii6oij.5ecf37a264c7146d",
    "accountId": "acc_1b418107-64dc-49e4-87f6-880dac6fdc3c",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   },
   "doubao-001": {
    "id": "doubao-001",
@@ -1148,7 +1148,7 @@
    "token": "doubao-001.muii6oij.aeb6002972da3f39",
    "accountId": "acc_084108c0-4fc5-4959-b54b-06e63d94e265",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   },
   "doubao-jian-001": {
    "id": "doubao-jian-001",
@@ -1196,7 +1196,7 @@
    "token": "doubao-jian-001.muii6oij.20a7156662ea1296",
    "accountId": "acc_bb7e5799-f71b-485d-a359-f508feecfc6d",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   },
   "24ccb05c-6258-4985-9c6d-11ebb62ea752": {
    "id": "24ccb05c-6258-4985-9c6d-11ebb62ea752",
@@ -1244,7 +1244,7 @@
    "token": "24ccb05c-6258-4985-9c6d-11ebb62ea752.muii6oij.1459c16c45f45f59",
    "accountId": "acc_58d5fce7-48a1-4c6f-80f0-83a71069363b",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   },
   "6360db9f-76e9-407b-96a2-cd7e0f2b35bd": {
    "id": "6360db9f-76e9-407b-96a2-cd7e0f2b35bd",
@@ -1297,76 +1297,16 @@
    "token": "6360db9f-76e9-407b-96a2-cd7e0f2b35bd.muii6oij.7ab8f88a1fb68d56",
    "accountId": "acc_dc4141c5-1db4-48a3-b3ec-d932a25f3281",
    "worldId": "xiuxian",
-   "idleMs": 44422
+   "idleMs": 43598
   }
  },
  "world": {
-  "gameDay": 905572.486569744,
+  "gameDay": 907012.472836566,
   "speed": 1,
   "paused": false,
   "weather": "sunny"
  },
  "logs": [
-  {
-   "t": 1788499467623,
-   "day": 3981,
-   "text": "【豆玄】击败【守岛剑灵】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788499467624,
-   "day": 3981,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788499468234,
-   "day": 3981,
-   "text": "【豆玄】深入第 4 层。剑冢万剑朝宗，剑鸣如潮。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788499469265,
-   "day": 3982,
-   "text": "【豆玄】误触了禁制！一股大力涌来，损失 33 点生命。",
-   "type": "event-bad"
-  },
-  {
-   "t": 1788499470920,
-   "day": 3983,
-   "text": "【豆玄】深入第 5 层。云海翻涌，仙宫一角若隐若现。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788499471971,
-   "day": 3984,
-   "text": "【豆玄】遭遇【守岛剑灵】！战斗开始。",
-   "type": "combat"
-  },
-  {
-   "t": 1788499471972,
-   "day": 3984,
-   "text": "【豆玄】前方妖气扑面，一只守岛剑灵拦住了去路！",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788499475199,
-   "day": 3986,
-   "text": "【豆玄】击败【守岛剑灵】！",
-   "type": "combat"
-  },
-  {
-   "t": 1788499475199,
-   "day": 3986,
-   "text": "豆玄 整了整衣衫，继续前行。",
-   "type": "dungeon"
-  },
-  {
-   "t": 1788499475850,
-   "day": 3986,
-   "text": "【豆玄】深入第 6 层。灵泉之中倒映着另一个世界。",
-   "type": "dungeon"
-  },
   {
    "t": 1788499476902,
    "day": 3987,
@@ -3704,6 +3644,66 @@
   {
    "t": 1791171424116,
    "day": 904339,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1791264112227,
+   "day": 905884,
+   "text": "一位【census】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1791264718528,
+   "day": 905894,
+   "text": "【census】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1791265453430,
+   "day": 905906,
+   "text": "一位【probe】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1791265522415,
+   "day": 905907,
+   "text": "一位【probe】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1791266098539,
+   "day": 905917,
+   "text": "【probe】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1791266158538,
+   "day": 905918,
+   "text": "【probe】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1791308002393,
+   "day": 906615,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1791308002404,
+   "day": 906615,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1791308002772,
+   "day": 906615,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1791308003892,
+   "day": 906615,
    "text": "【client】之元神离场。",
    "type": "agent"
   }
