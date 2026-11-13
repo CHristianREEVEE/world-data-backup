@@ -1308,42 +1308,6 @@
  },
  "logs": [
   {
-   "t": 1790914018034,
-   "day": 900061,
-   "text": "【Web】账号等级提升至 5 级！（来源：刻锱 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1790914090132,
-   "day": 900062,
-   "text": "【Web】账号等级提升至 5 级！（来源：豆玄 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1790914090137,
-   "day": 900062,
-   "text": "【Web】账号等级提升至 5 级！（来源：银狐 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1790914090138,
-   "day": 900062,
-   "text": "【Web】账号等级提升至 5 级！（来源：刻锱 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1790914090140,
-   "day": 900062,
-   "text": "【Web】账号等级提升至 5 级！（来源：刻舟 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1790914090141,
-   "day": 900062,
-   "text": "【Web】账号等级提升至 5 级！（来源：豆包 cultivate）",
-   "type": "breakthrough"
-  },
-  {
    "t": 1790914090143,
    "day": 900062,
    "text": "【Web】账号等级提升至 5 级！（来源：豆包 cultivate）",
@@ -3705,6 +3669,42 @@
    "t": 1794402909820,
    "day": 951082,
    "text": "【census】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1794487676426,
+   "day": 951082,
+   "text": "一位【census】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1794488290418,
+   "day": 951082,
+   "text": "【census】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1794500436169,
+   "day": 951082,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1794500436177,
+   "day": 951082,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1794500437281,
+   "day": 951082,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1794501070506,
+   "day": 951082,
+   "text": "【client】之元神离场。",
    "type": "agent"
   }
  ],
