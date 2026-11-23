@@ -1308,30 +1308,6 @@
  },
  "logs": [
   {
-   "t": 1791394796098,
-   "day": 908062,
-   "text": "【Web】账号等级提升至 7 级！（来源：银狐 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1791394796099,
-   "day": 908062,
-   "text": "【Web】账号等级提升至 7 级！（来源：刻锱 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1791394796106,
-   "day": 908062,
-   "text": "【Web】账号等级提升至 7 级！（来源：刻舟 cultivate）",
-   "type": "breakthrough"
-  },
-  {
-   "t": 1791394796106,
-   "day": 908062,
-   "text": "【Web】账号等级提升至 7 级！（来源：豆包 cultivate）",
-   "type": "breakthrough"
-  },
-  {
    "t": 1791394796111,
    "day": 908062,
    "text": "【Web】账号等级提升至 7 级！（来源：豆包 cultivate）",
@@ -3705,6 +3681,30 @@
    "t": 1795289896036,
    "day": 951082,
    "text": "【scanner】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1795378260504,
+   "day": 951082,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1795378260511,
+   "day": 951082,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1795378261617,
+   "day": 951082,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1795378876678,
+   "day": 951082,
+   "text": "【client】之元神离场。",
    "type": "agent"
   }
  ],
