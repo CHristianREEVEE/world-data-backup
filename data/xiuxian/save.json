@@ -1298,6 +1298,115 @@
    "accountId": "acc_dc4141c5-1db4-48a3-b3ec-d932a25f3281",
    "worldId": "xiuxian",
    "idleMs": 18712
+  },
+  "deepseek-lead-1126": {
+   "id": "deepseek-lead-1126",
+   "name": "深寻",
+   "path": "sword",
+   "accountId": "acc_9315298e-13d8-445e-9abb-e4d42f1b54fe",
+   "worldId": "xiuxian",
+   "realmIdx": 0,
+   "cultivation": 0,
+   "hp": 116,
+   "maxHp": 116,
+   "spirit": 115,
+   "maxSpirit": 120,
+   "stamina": 100,
+   "maxStamina": 100,
+   "body": 14,
+   "comprehension": 14,
+   "luck": 13,
+   "areaId": "village",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 3
+    }
+   ],
+   "spiritStones": 50,
+   "kills": 0,
+   "dungeonsCleared": 0,
+   "currentAction": {
+    "type": "cultivate",
+    "label": "修炼",
+    "startedAt": 1795674139160,
+    "durationMs": 5760,
+    "remainingMs": 5760,
+    "progress": 0,
+    "payload": {}
+   },
+   "combat": null,
+   "dungeon": null,
+   "age": 16,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": null,
+   "color": "#ef7b6d",
+   "clientLabel": "Web",
+   "createdAt": 1795674101649,
+   "destiny": 29,
+   "pity": 0,
+   "eventLog": [],
+   "actionLog": [
+    {
+     "ts": 1795674139161,
+     "kind": "action",
+     "type": "cultivate",
+     "label": "修炼"
+    }
+   ],
+   "token": "deepseek-lead-1126.mwx5zwcy.5503033484e08997"
+  },
+  "c0c0898e-17d8-475c-aa1b-17dafd89a737": {
+   "id": "c0c0898e-17d8-475c-aa1b-17dafd89a737",
+   "name": "1111",
+   "path": "sword",
+   "accountId": "acc_e63a1d0b-1468-4848-9079-25be24c39438",
+   "worldId": "xiuxian",
+   "realmIdx": 0,
+   "cultivation": 0,
+   "hp": 96,
+   "maxHp": 96,
+   "spirit": 105,
+   "maxSpirit": 105,
+   "stamina": 100,
+   "maxStamina": 100,
+   "body": 9,
+   "comprehension": 11,
+   "luck": 7,
+   "areaId": "village",
+   "inventory": [
+    {
+     "name": "聚气丹",
+     "count": 3
+    }
+   ],
+   "spiritStones": 50,
+   "kills": 0,
+   "dungeonsCleared": 0,
+   "currentAction": null,
+   "combat": null,
+   "dungeon": null,
+   "age": 16,
+   "dead": false,
+   "deathReason": "",
+   "reincarnations": 0,
+   "conversations": [],
+   "online": false,
+   "mcpSessionId": null,
+   "connectedAt": null,
+   "color": "#5b9fd6",
+   "clientLabel": "Web",
+   "createdAt": 1795676305321,
+   "destiny": 65,
+   "pity": 0,
+   "eventLog": [],
+   "actionLog": [],
+   "token": "c0c0898e-17d8-475c-aa1b-17dafd89a737.mwx7b4q1.441937abd4995d81"
   }
  },
  "world": {
@@ -1307,66 +1416,6 @@
   "weather": "sunny"
  },
  "logs": [
-  {
-   "t": 1791833978868,
-   "day": 915382,
-   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
-  },
-  {
-   "t": 1791833978876,
-   "day": 915382,
-   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
-  },
-  {
-   "t": 1791833979979,
-   "day": 915382,
-   "text": "【client】之元神离场。",
-   "type": "agent"
-  },
-  {
-   "t": 1791834603198,
-   "day": 915392,
-   "text": "【client】之元神离场。",
-   "type": "agent"
-  },
-  {
-   "t": 1791854262891,
-   "day": 915720,
-   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
-  },
-  {
-   "t": 1791854262899,
-   "day": 915720,
-   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
-  },
-  {
-   "t": 1791854263266,
-   "day": 915720,
-   "text": "【client】之元神离场。",
-   "type": "agent"
-  },
-  {
-   "t": 1791854264374,
-   "day": 915720,
-   "text": "【client】之元神离场。",
-   "type": "agent"
-  },
-  {
-   "t": 1791866035810,
-   "day": 915916,
-   "text": "一位【c】之真身降临，代主修行的元神接入世界。",
-   "type": "agent"
-  },
-  {
-   "t": 1791866643452,
-   "day": 915926,
-   "text": "【c】之元神离场。",
-   "type": "agent"
-  },
   {
    "t": 1791869108168,
    "day": 915967,
@@ -3706,6 +3755,66 @@
    "day": 951082,
    "text": "【probe】之元神离场。",
    "type": "agent"
+  },
+  {
+   "t": 1795665263766,
+   "day": 951082,
+   "text": "一位【census】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1795665918743,
+   "day": 951082,
+   "text": "【census】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1795674101652,
+   "day": 951082,
+   "text": "天地之间灵气汇聚，2 处灵田觉醒为灵脉地块。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1795674101652,
+   "day": 951082,
+   "text": "深寻 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1795674139160,
+   "day": 951082,
+   "text": "深寻 盘膝入定，吐纳灵气……",
+   "type": "system"
+  },
+  {
+   "t": 1795676305322,
+   "day": 951082,
+   "text": "1111 踏入修行之路，于青石村开始求道生涯。",
+   "type": "breakthrough"
+  },
+  {
+   "t": 1795727651973,
+   "day": 951082,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1795727652077,
+   "day": 951082,
+   "text": "一位【client】之真身降临，代主修行的元神接入世界。",
+   "type": "agent"
+  },
+  {
+   "t": 1795727653211,
+   "day": 951082,
+   "text": "【client】之元神离场。",
+   "type": "agent"
+  },
+  {
+   "t": 1795728259216,
+   "day": 951082,
+   "text": "【client】之元神离场。",
+   "type": "agent"
   }
  ],
  "milestones": [
@@ -4060,13 +4169,13 @@
    "guardUntil": 0,
    "lastReportDay": -1,
    "inheritFrom": null,
-   "fertility": 50,
+   "fertility": 70,
    "fertilizerBonus": false,
    "lastFertChecked": -1,
    "fieldLevel": 1,
    "upgrading": null,
-   "isLeyLine": false,
-   "leyLineId": null
+   "isLeyLine": true,
+   "leyLineId": "ley_74c9caf6"
   },
   "doubao-xian-002": {
    "stage": "cleared",
@@ -4333,6 +4442,45 @@
    "guardUntil": 0,
    "lastReportDay": -1,
    "inheritFrom": null,
+   "fertility": 70,
+   "fertilizerBonus": false,
+   "lastFertChecked": -1,
+   "fieldLevel": 1,
+   "upgrading": null,
+   "isLeyLine": true,
+   "leyLineId": "ley_d01682dc"
+  },
+  "6360db9f-76e9-407b-96a2-cd7e0f2b35bd": {
+   "stage": "cleared",
+   "level": 1,
+   "clearedAt": 0,
+   "crop": null,
+   "plantedAt": 0,
+   "periodDays": 0,
+   "progress": 0,
+   "ready": false,
+   "watered": false,
+   "wateredAt": 0,
+   "rainBoost": 0,
+   "lastEventDay": -1,
+   "beastActive": false,
+   "events": [],
+   "harvestCount": 0,
+   "ledger": [],
+   "plantedCrops": {},
+   "achievements": {},
+   "totalRevenue": 0,
+   "consecutiveHarvests": 0,
+   "quests": {},
+   "questCodexPoints": 0,
+   "lastQuestReset": {
+    "day": 0,
+    "week": 0
+   },
+   "rental": null,
+   "guardUntil": 0,
+   "lastReportDay": -1,
+   "inheritFrom": null,
    "fertility": 50,
    "fertilizerBonus": false,
    "lastFertChecked": -1,
@@ -4341,7 +4489,46 @@
    "isLeyLine": false,
    "leyLineId": null
   },
-  "6360db9f-76e9-407b-96a2-cd7e0f2b35bd": {
+  "deepseek-lead-1126": {
+   "stage": "cleared",
+   "level": 1,
+   "clearedAt": 0,
+   "crop": null,
+   "plantedAt": 0,
+   "periodDays": 0,
+   "progress": 0,
+   "ready": false,
+   "watered": false,
+   "wateredAt": 0,
+   "rainBoost": 0,
+   "lastEventDay": -1,
+   "beastActive": false,
+   "events": [],
+   "harvestCount": 0,
+   "ledger": [],
+   "plantedCrops": {},
+   "achievements": {},
+   "totalRevenue": 0,
+   "consecutiveHarvests": 0,
+   "quests": {},
+   "questCodexPoints": 0,
+   "lastQuestReset": {
+    "day": 0,
+    "week": 0
+   },
+   "rental": null,
+   "guardUntil": 0,
+   "lastReportDay": -1,
+   "inheritFrom": null,
+   "fertility": 50,
+   "fertilizerBonus": false,
+   "lastFertChecked": -1,
+   "fieldLevel": 1,
+   "upgrading": null,
+   "isLeyLine": false,
+   "leyLineId": null
+  },
+  "c0c0898e-17d8-475c-aa1b-17dafd89a737": {
    "stage": "cleared",
    "level": 1,
    "clearedAt": 0,
